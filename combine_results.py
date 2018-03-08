@@ -75,6 +75,7 @@ if __name__ == '__main__':
         for award in all_award_keys:
             main_dict["awards"][award] = [ url_map.get(r, r) for r in main_dict["awards"][award] ]
         main_dict["parsing_errors"] = [ url_map.get(r, r) for r in main_dict["parsing_errors"] ]
+        main_dict["remaining"] = [ url_map.get(r, r) for r in main_dict["remaining"] ]
 
     print(json.dumps(main_dict, sort_keys=True, indent=4))
 
