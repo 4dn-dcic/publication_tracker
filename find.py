@@ -10,39 +10,7 @@ import requests
 import multiprocessing
 import glob
 from scrape_biorxiv_pdfs import get_list_of_pdf_urls as biorxiv_get_pdf_list
-
-
-awards_list = [ # TODO: put in own file?
-    'CA200060',
-    'CA200147',
-    'DA040582',
-    'DA040583',
-    'DA040588',
-    'DA040601',
-    'DA040612',
-    'DA040709',
-    'EB021223',
-    'EB021230',
-    'EB021232',
-    'EB021236',
-    'EB021237',
-    'EB021238',
-    'EB021239',
-    'EB021240',
-    'EB021247',
-    'HL129958',
-    'HL129971',
-    'HL129998',
-    'HL130007',
-    'HL130010',
-    'DK107979',
-    'DK107980',
-    'DK107965',
-    'DK107967',
-    'DK107977',
-    'DK107981',
-    'CA200059'
-]
+from combine_results import map_urls_over_local_paths
 
 
 def get_text_from_pdf(pdf_url):
@@ -70,8 +38,7 @@ def progress_output(outstring):
     sys.stdout.flush()
 
 def worker(args):
-    idx = args[0]
-    pdf_link = args[1]
+    idx, pdf_link, awards_list = args
     try:
         ret_list = []
         data = get_text_from_pdf(pdf_link)
@@ -87,7 +54,7 @@ def worker(args):
         print('Failed to parse ' + pdf_link + '. Check it manually.')
         return [('ERROR', pdf_link)]
 
-def collect_results(award_matches, out_file, all_pdfs):
+def collect_results(award_matches, out_file, all_pdfs, url_map=None):
     
     def add_to_ret_dict(ret_dict, flattened_matches):
         for award, pdf_link in flattened_matches:
@@ -113,7 +80,11 @@ def collect_results(award_matches, out_file, all_pdfs):
         count_collected += 1
         progress_output('(' + str(count_collected) + '/' + str(count_pdf) + ') Found ' + str(len([ r for r in result_list if r[0] != 'NONE'])) + ' awards in ' + result_list[0][1] + '   \r')
         ret_dict = add_to_ret_dict(ret_dict, result_list)
-        write_result_to_file(out_file, ret_dict)
+        write_dict = ret_dict.copy()
+        if url_map:
+            write_dict['remaining'] = ret_dict['remaining'][:]
+            write_dict = map_urls_over_local_paths(write_dict, url_map)
+        write_result_to_file(out_file, write_dict)
 
     return ret_dict
 
@@ -131,9 +102,11 @@ if __name__ == '__main__':
     :param argv[1]: Filename / path to write output to.
     :param argv[2]: URL to Biorxiv collection page to scrape. Or local path to PDF folder. Uses default PDF list if not supplied.
     '''
+    url_map = None
     out_file = None
     collection_page = None
     pdf_list = []
+    awards_list = json.load(open('./awards.json'))
 
     if len(sys.argv) > 2:
         out_file = sys.argv[1]
@@ -141,7 +114,6 @@ if __name__ == '__main__':
     else:
         print('Need an output file name (1st arg) and url/file list (.json) or directory of PDFs (2nd arg).')
 
-    
     entries_url_list = []
 
     print('Running, please wait...')
@@ -150,7 +122,8 @@ if __name__ == '__main__':
     if len(pdf_list) == 0 and collection_page and collection_page[0:4] == 'http':
         pdf_list = biorxiv_get_pdf_list(collection_page)
     elif len(pdf_list) == 0 and collection_page[-5:] == '.json':     # JSON list / url_map.json
-        pdf_list = [ pdf_item[1] for pdf_item in json.load(open(collection_page)) ]
+        url_map = json.load(open(collection_page))
+        pdf_list = [ pdf_item[1] for pdf_item in url_map ]
     elif len(pdf_list) == 0 and collection_page:                    # Local directory of PDFs
         curr_dir = os.getcwd()
         os.chdir(collection_page)
@@ -165,7 +138,10 @@ if __name__ == '__main__':
     if count_pdf > 0:
         try:
             pool = multiprocessing.Pool(processes=multiprocessing.cpu_count())
-            ret_dict = collect_results(pool.imap_unordered(worker, enumerate(pdf_list)), out_file, pdf_list)
+            ret_dict = collect_results(
+                pool.imap_unordered(worker, [ (pdf_item[0], pdf_item[1], awards_list) for pdf_item in enumerate(pdf_list) ]),
+                out_file, pdf_list, url_map
+            )
         except KeyboardInterrupt:
             print('Exiting...')
             pool.close()
