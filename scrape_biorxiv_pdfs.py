@@ -1,6 +1,9 @@
 """
+WARNING: Relies on web scraping, and may stop working at any time, depending on biorxiv updates.
+Replace with API communication or similar at earliest availability.
+Alternatively, look into using RSS feed (?).
+
 Run this file to get list of PDF Urls, separated by spaces.
-Pipe it into download_pdfs function
 """
 import requests, sys, json
 from bs4 import BeautifulSoup
