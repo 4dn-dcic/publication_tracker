@@ -36,4 +36,4 @@ def get_list_of_pdf_urls(collection_page):
 
 if __name__ == '__main__':
     collection_page = sys.argv[1]
-    print(json.dumps(get_list_of_pdf_urls(collection_page)))
+    print(json.dumps(get_list_of_pdf_urls(collection_page), indent=4))
