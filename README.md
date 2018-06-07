@@ -9,6 +9,9 @@ Run `python3 download_pdfs.py http://connect.biorxiv.org/relate/content/66` to s
 
 This will save PDFs to ./pdfs/ directory, as well as a 'url_map.json' with list of remote URLs & local filenames.
 
+### Step 1a
+Can update pre-set list of PDF URLs from biorxiv by running `python3 scrape_biorxiv_pdfs.py http://connect.biorxiv.org/relate/content/66 > pdf_uris.json`, and then resuming step 1 at `python3 download_pdfs.py` to download these pdf uris into ./pdfs/ directory.
+
 ## Step 2
 Run `python3 find.py outfile.json ./pdfs/url_map.json` will then parse these PDFs as text and find which awards are present. Will continuously update/save outfile.json with result as each PDF file is processed in case of failures or a long-running/hanging PDF. 
 
