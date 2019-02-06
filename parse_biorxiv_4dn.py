@@ -61,7 +61,7 @@ def get_pub_list():
         entries_url_list[id] = {"href":href,"title":title}
     outfname = "data_pre/pub_list.json"
     with open(outfname,"w") as fp:
-        json.dump(entries_url_list, fp)
+        json.dump(entries_url_list, fp, indent=2)
         print("wrote " + outfname + " with " + str(len(entries_url_list)) + " entries")
 
 
@@ -109,16 +109,23 @@ def get_pub_metadata(id,href):
     else:
         print(id + " " + version + " new record created")
         
-def get_pub_metadata_all():
-    os.makedirs("data_post",exist_ok=True)        
-    with open("data_pre/pub_list.json","r") as fp:
+def get_pub_metadata_all(test=False):
+    infname = "data_pre/pub_list.json"
+    with open(infname,"r") as fp:
         entries_url_list = json.load(fp)
+
+    os.makedirs("data_post",exist_ok=True)
+    counter = 0
     for id, value in entries_url_list.items():
         href = value["href"]
         get_pub_metadata(id, href)
+        if test:
+            counter = counter + 1
+            if counter>=3:
+                return
 
 def download_pdf(fname_jsoneach):
-    os.makedirs("pdfs",exist_ok=True)        
+    os.makedirs("pdfs",exist_ok=True)  
     with open(fname_jsoneach,"r") as fp:
         entry = json.load(fp)
     pdf_url = entry["latest"]["pdf_link"]
@@ -130,11 +137,15 @@ def download_pdf(fname_jsoneach):
     with open(fname_pdf, 'wb') as f:
         f.write(requests.get(pdf_url).content)
 
-def download_pdf_all():
+def download_pdf_all(test=False):
     fname_jsons = os.listdir("data_post")
+    counter = 0
     for fname_jsoneach in fname_jsons:
         download_pdf("data_post/" + fname_jsoneach)
-
+        if test:
+            counter = counter + 1
+            if counter>=3:
+                return
 
 def get_text_from_pdf(fname_pdf):
     pdf_io = open(fname_pdf, 'rb')
@@ -188,25 +199,31 @@ def parse_pdf(fname_jsoneach):
         print('Failed to parse ' + fname_pdf + '. Check it manually.')
         return
         
-def parse_pdf_all():
+def parse_pdf_all(test):
     fname_jsons = os.listdir("data_post")
+    counter=0
     for fname_jsoneach in fname_jsons:
         parse_pdf("data_post/" + fname_jsoneach)
+        if test:
+            counter = counter + 1
+            if counter>=3:
+                return
 
 @click.command()
 @click.option('--step', type=click.Choice(['1', '2', '3', '4', 'all']), help="1: get_pub_list \n2: get_pub_metadata \n3: download_pdfs \n4: parse_pdfs \nall: all")
+@click.option('--test', is_flag=True,help="for options 2-4, run only on 3 publications")
 
-def run(step):
+def run(step,test):
     if step == None:
         print("step is required, see --help")
     elif   step in ["1","all"]:
         get_pub_list()
     elif step in ["2","all"]:
-        get_pub_metadata_all()
+        get_pub_metadata_all(test)
     elif step in ["3","all"]:
-        download_pdf_all()
+        download_pdf_all(test)
     elif step in ["4","all"]:
-        parse_pdf_all()
+        parse_pdf_all(test)
 
 if __name__ == '__main__':
     run()
