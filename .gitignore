@@ -1,7 +1,5 @@
-/pdfs/
-/pdfs2/
+/pdfs/*
 /.DS_Store
 /__pycache__
-/older-results-biorxiv-2018-03
-/older2
-/*.json
+/data_pre/pub_list.json
+/data_post/
