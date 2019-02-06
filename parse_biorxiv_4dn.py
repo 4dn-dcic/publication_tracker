@@ -216,13 +216,13 @@ def parse_pdf_all(test):
 def run(step,test):
     if step == None:
         print("step is required, see --help")
-    elif   step in ["1","all"]:
+    if   step in ["1","all"]:
         get_pub_list()
-    elif step in ["2","all"]:
+    if step in ["2","all"]:
         get_pub_metadata_all(test)
-    elif step in ["3","all"]:
+    if step in ["3","all"]:
         download_pdf_all(test)
-    elif step in ["4","all"]:
+    if step in ["4","all"]:
         parse_pdf_all(test)
 
 if __name__ == '__main__':
