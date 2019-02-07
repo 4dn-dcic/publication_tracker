@@ -88,7 +88,7 @@ def get_pub_metadata(id,href):
     title = soup.find('meta', attrs={'name' : "DC.Title"}).get("content")    
     pdf_link  = "https://www.biorxiv.org" + soup.find('div', attrs={'id' : 'mini-panel-biorxiv_art_tools'}).find('a').get('href')
     url_path, filename = os.path.split(pdf_link)
-    fname_pdf = os.path.abspath('./pdfs/' + filename)
+    fname_pdf = os.path('pdfs/' + filename)
 
     thisversion = {
         "title" : title,
@@ -211,7 +211,7 @@ def parse_pdf_all(test):
 
 @click.command()
 @click.option('--step', type=click.Choice(['1', '2', '3', '4', 'all']), help="1: get_pub_list \n2: get_pub_metadata \n3: download_pdfs \n4: parse_pdfs \nall: all")
-@click.option('--test', is_flag=True,help="for options 2-4, run only on 3 publications")
+@click.option('--test', is_flag=True,help="for steps 2-4, run only on 3 publications")
 
 def run(step,test):
     if step == None:
