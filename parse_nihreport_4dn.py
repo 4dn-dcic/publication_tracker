@@ -19,18 +19,16 @@ This will create files data_post/PMID<pmid>.json with {latest={pmid, title, awar
 
 If new records appear in pubmed, new files will be created for them.
 If old records change, old files will be updated with backups of old information.
+    {latest={pmid, title, awards, authors},OldDate={pmid,...]}
 
 """
-
 import pandas
 import unicodedata 
 import re, os, json
 import click
 
-
 @click.command()
 @click.option('--infname', default='data_pre/Publ_08Feb2019_090308_30431073.csv', help='code assumes this looks like <folder>/<something>_<date>_<sth_sth>.<extension>')
-
 def parse_nihreport(infname):
     # assume infname = folder/something_date_sth_sth.
     version = re.match(".*/.*?_(.*)\..*",infname).group(1)
