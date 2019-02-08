@@ -128,7 +128,9 @@ def download_pdf(fname_jsoneach):
     os.makedirs("pdfs",exist_ok=True)  
     with open(fname_jsoneach,"r") as fp:
         entry = json.load(fp)
-    pdf_url = entry["latest"]["pdf_link"]
+    pdf_url = entry["latest"].get("pdf_link")
+    if pdf_url is None:
+       return
     fname_pdf = entry["latest"]["fname_pdf"]
     if os.path.isfile(fname_pdf):
         print(fname_pdf + ' already saved. Skipping.')
@@ -165,6 +167,9 @@ def parse_pdf(fname_jsoneach):
     with open(fname_jsoneach,"r") as fp:
         entry = json.load(fp)
 
+    if "pmid" in entry["latest"].keys():
+        return
+    
     if "awards" in entry["latest"].keys():
         print(entry["latest"]["version"] + " already parsed, not rerunning")
         return
