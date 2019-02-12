@@ -78,27 +78,28 @@ def get_pub_metadata(id,href):
     entry_page_html = requests.get(href)
     soup = BeautifulSoup(entry_page_html.text, 'html.parser')
     version = soup.find('meta', attrs={'name' : "HW.pisa"}).get("content")
-    date =  soup.find('meta', attrs={'name' : "DC.Date"}).get("content")
-    authors = [ i.get("content") for i in soup.find_all('meta', attrs={'name' : "DC.Contributor"})]
 
     if version in entry.keys():
         print(id + " " + version + " already in records")
         return
-    
+
+    date =  soup.find('meta', attrs={'name' : "DC.Date"}).get("content")
+    authors = [ i.get("content") for i in soup.find_all('meta', attrs={'name' : "DC.Contributor"})]
     title = soup.find('meta', attrs={'name' : "DC.Title"}).get("content")    
     pdf_link  = "https://www.biorxiv.org" + soup.find('div', attrs={'id' : 'mini-panel-biorxiv_art_tools'}).find('a').get('href')
     url_path, filename = os.path.split(pdf_link)
-    fname_pdf = os.path('pdfs/' + filename)
+    fname_pdf = 'pdfs/' + filename
 
     thisversion = {
         "title" : title,
         "pdf_link" : pdf_link,
+        "abstract_link" : href,
         "version" : version,
         "date" : date,
         "authors" : authors,
         "fname_pdf" : fname_pdf
     }
-
+    
     entry[version] = thisversion
     entry["latest"] = thisversion
     
@@ -108,6 +109,7 @@ def get_pub_metadata(id,href):
         print(id + " " + version + " new version added")
     else:
         print(id + " " + version + " new record created")
+
         
 def get_pub_metadata_all(test=False):
     infname = "data_pre/pub_list.json"
@@ -203,7 +205,8 @@ def parse_pdf(fname_jsoneach):
     except Exception as e:
         print('Failed to parse ' + fname_pdf + '. Check it manually.')
         return
-        
+
+    
 def parse_pdf_all(test):
     fname_jsons = os.listdir("data_post")
     counter=0
