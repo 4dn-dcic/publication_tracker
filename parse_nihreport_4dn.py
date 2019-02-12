@@ -27,6 +27,7 @@ import unicodedata
 import re, os, json
 import click
 
+ 
 @click.command()
 @click.option('--infname', default='data_pre/Publ_08Feb2019_090308_30431073.csv', help='code assumes this looks like <folder>/<something>_<date>_<sth_sth>.<extension>')
 def parse_nihreport(infname):
@@ -34,10 +35,17 @@ def parse_nihreport(infname):
     version = re.match(".*/.*?_(.*)\..*",infname).group(1)
     version_short = re.match("(.*?)_",version).group(1)
     publist = pandas.read_csv(infname , encoding='latin-1')   
-
+    publist.rename(columns={'Title (Link to full-text in PubMed Central) ': "Title"}, inplace=True)
+    
     # the same publication may appear multiple times for different awards.
     # We'll group the results by publication
     pmids = set(publist['PMID'])    
+
+    for i in publist.index:
+        title=publist.loc[i,"Title"]
+        if re.search("<a",title):
+            publist.loc[i,"Title"] = re.search(">(.*)<",title).group(1)
+
     for pmid in pmids:
 
         # all records per same publication
@@ -50,15 +58,19 @@ def parse_nihreport(infname):
         authors = [" ".join(i.split(", ")[::-1]) for i in authors]
 
         awards = list(records["Core Project Number"])
+        link = "http://www.ncbi.nlm.nih.gov/pubmed/" + str(pmid)
         pmid = "PMID"+ str(pmid)
+        date = (records["PUB Date"].iloc[0])[:-1]
+        
         thisversion = {
             "version" : version_short,
             "pmid" : pmid,
             "awards" : awards,
             "authors" : authors,
-            "title": records["Title (Link to full-text in PubMed Central) "].iloc[0]
+            "title": records["Title"].iloc[0],
+            "date": date,
+            "link": link
             }
-
 
         #if a json for this pmid does not exist write one
         #if a json does exist, check if anything is different
@@ -71,7 +83,7 @@ def parse_nihreport(infname):
             with open(fname_jsoneach,"r") as fp:
                 entry = json.load(fp)
                 for key in thisversion.keys():
-                    if thisversion[key] != entry["latest"][key]:
+                    if thisversion[key] != entry["latest"].get(key,""):
                         entry[entry["latest"]["version"]] = entry["latest"]
                         updated = True
                         break
