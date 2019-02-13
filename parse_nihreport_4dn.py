@@ -24,10 +24,10 @@ If old records change, old files will be updated with backups of old information
 """
 import pandas
 import unicodedata 
-import re, os, json
+import re, json
+import os, glob
 import click
 
- 
 @click.command()
 @click.option('--infname', default='data_pre/Publ_08Feb2019_090308_30431073.csv', help='code assumes this looks like <folder>/<something>_<date>_<sth_sth>.<extension>')
 def parse_nihreport(infname):
@@ -47,7 +47,6 @@ def parse_nihreport(infname):
             publist.loc[i,"Title"] = re.search(">(.*)<",title).group(1)
 
     for pmid in pmids:
-
         # all records per same publication
         records = publist[publist["PMID"]==pmid]
 
@@ -57,24 +56,25 @@ def parse_nihreport(infname):
         authors= authors.split("; ")
         authors = [" ".join(i.split(", ")[::-1]) for i in authors]
 
+        pmid=str(pmid)
         awards = list(records["Core Project Number"])
-        link = "http://www.ncbi.nlm.nih.gov/pubmed/" + str(pmid)
-        pmid = "PMID"+ str(pmid)
+        link = "http://www.ncbi.nlm.nih.gov/pubmed/" + pmid
         date = (records["PUB Date"].iloc[0])[:-1]
         
         thisversion = {
-            "version" : version_short,
-            "pmid" : pmid,
-            "awards" : awards,
-            "authors" : authors,
+            "source" : "PubMed",
+            "id" : pmid,
             "title": records["Title"].iloc[0],
+            "link": link,
+            "version" : version_short,
             "date": date,
-            "link": link
+            "authors" : authors,
+            "awards" : awards
             }
 
         #if a json for this pmid does not exist write one
         #if a json does exist, check if anything is different
-        fname_jsoneach = "data_post/" + pmid + ".json"
+        fname_jsoneach = "data_post/PubMed-" + pmid + ".json"
         pre_exists = False
         updated = False
         entry={}

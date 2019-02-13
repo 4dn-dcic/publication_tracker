@@ -27,9 +27,8 @@ parse_pdf_all:
 """
 
 from bs4 import BeautifulSoup
-import os
+import os, io, glob
 import requests, sys, json, re
-import io
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.pdfpage import PDFPage
 from pdfminer.converter import TextConverter
@@ -66,7 +65,7 @@ def get_pub_list():
 
 
 def get_pub_metadata(id,href):
-    fname_jsoneach = "data_post/" + id + ".json"
+    fname_jsoneach = "data_post/biorxiv-" + id + ".json"
     pre_exists = False
     if os.path.exists(fname_jsoneach):
         with open(fname_jsoneach,"r") as fp:
@@ -91,12 +90,14 @@ def get_pub_metadata(id,href):
     fname_pdf = 'pdfs/' + filename
 
     thisversion = {
+        "source" : "biorxiv",
+        "id" : id,
         "title" : title,
-        "pdf_link" : pdf_link,
-        "abstract_link" : href,
+        "link" : href,
         "version" : version,
         "date" : date,
         "authors" : authors,
+        "pdf_link" : pdf_link,
         "fname_pdf" : fname_pdf
     }
     
@@ -142,10 +143,10 @@ def download_pdf(fname_jsoneach):
         f.write(requests.get(pdf_url).content)
 
 def download_pdf_all(test=False):
-    fname_jsons = os.listdir("data_post")
+    fname_jsons = glob.glob("data_post/bio*")
     counter = 0
     for fname_jsoneach in fname_jsons:
-        download_pdf("data_post/" + fname_jsoneach)
+        download_pdf(fname_jsoneach)
         if test:
             counter = counter + 1
             if counter>=3:
@@ -169,9 +170,6 @@ def parse_pdf(fname_jsoneach):
     with open(fname_jsoneach,"r") as fp:
         entry = json.load(fp)
 
-    if "pmid" in entry["latest"].keys():
-        return
-    
     if "awards" in entry["latest"].keys():
         print(entry["latest"]["version"] + " already parsed, not rerunning")
         return
@@ -208,10 +206,10 @@ def parse_pdf(fname_jsoneach):
 
     
 def parse_pdf_all(test):
-    fname_jsons = os.listdir("data_post")
+    fname_jsons = glob.glob("data_post/bio*")
     counter=0
     for fname_jsoneach in fname_jsons:
-        parse_pdf("data_post/" + fname_jsoneach)
+        parse_pdf(fname_jsoneach)
         if test:
             counter = counter + 1
             if counter>=3:
