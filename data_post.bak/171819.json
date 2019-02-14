@@ -1,0 +1,50 @@
+{
+  "biorxiv;171819v2": {
+    "title": "C-BERST: Defining subnuclear proteomic landscapes at genomic elements with dCas9-APEX2",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/01/31/171819.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/171819",
+    "version": "biorxiv;171819v2",
+    "date": "2018-01-31",
+    "authors": [
+      "Xin D. Gao",
+      "Li-Chun Tu",
+      "Aamir Mir",
+      "Tomas Rodriguez",
+      "Yuehe Ding",
+      "John Leszyk",
+      "Job Dekker",
+      "Scott A. Shaffer",
+      "Lihua Julie Zhu",
+      "Scot A. Wolfe",
+      "Erik J. Sontheimer"
+    ],
+    "fname_pdf": "pdfs/171819.full-text.pdf",
+    "awards": [
+      "DK107980"
+    ]
+  },
+  "latest": {
+    "title": "C-BERST: Defining subnuclear proteomic landscapes at genomic elements with dCas9-APEX2",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/01/31/171819.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/171819",
+    "version": "biorxiv;171819v2",
+    "date": "2018-01-31",
+    "authors": [
+      "Xin D. Gao",
+      "Li-Chun Tu",
+      "Aamir Mir",
+      "Tomas Rodriguez",
+      "Yuehe Ding",
+      "John Leszyk",
+      "Job Dekker",
+      "Scott A. Shaffer",
+      "Lihua Julie Zhu",
+      "Scot A. Wolfe",
+      "Erik J. Sontheimer"
+    ],
+    "fname_pdf": "pdfs/171819.full-text.pdf",
+    "awards": [
+      "DK107980"
+    ]
+  }
+}

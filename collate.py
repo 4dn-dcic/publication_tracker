@@ -11,6 +11,7 @@ def match_pubs_titleauthor():
     if biorxiv and pubmed match, mark biorxiv with exclude flag
     if two pubmeds match, mark latter with exclude flag. (typically erratums)
     '''
+    print("matching publications by titles and authors, this make take some time")
     entries = {}
     fname_jsons = os.listdir("data_post")
     for fname_jsoneach in fname_jsons:
@@ -47,10 +48,9 @@ def match_pubs_titleauthor():
             entry_orig["latest"] = entry
         with open(c + fname_jsoneach,"w") as fp:
             json.dump(entry_orig, fp)
+    print("done!")
 
-match_pubs_titleauthor()
-
-def collate():
+def write_per_grant():
     '''
     turn per-publication entries to per-grant entries
     write output to data_grant/ with added=<today>
@@ -89,3 +89,17 @@ def collate():
 
         with open(fname_pergrant,"w") as fp:
             json.dump(dict_pergrant[award],fp,indent=2)
+
+
+@click.command()
+@click.option('--match-pubs', is_flag=True, help="look for records with very similar titles and authors to fill other_ids field", default=False)
+@click.option('--per-grant', is_flag=True, help="reorganize data to be per award under data_grant/", default=False)
+
+def run(match_pubs,per_grant):
+    if(match_pubs):
+        match_pubs_titleauthor()
+    if(per_grant):
+        write_per_grant()  
+
+if __name__ == '__main__':
+    run()

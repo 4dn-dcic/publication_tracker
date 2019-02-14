@@ -1,0 +1,21 @@
+{
+  "latest": {
+    "version": "08Feb2019",
+    "pmid": "PMID27088723",
+    "awards": [
+      "U01EB021238"
+    ],
+    "authors": [
+      "Hanhui Ma",
+      "Li-Chun Tu",
+      "Ardalan Naseri",
+      "Maximiliaan Huisman",
+      "Shaojie Zhang",
+      "David Grunwald",
+      "Thoru Pederson"
+    ],
+    "title": "Multiplexed labeling of genomic loci with dCas9 and engineered sgRNAs using CRISPRainbow.",
+    "date": "2016 05",
+    "link": "http://www.ncbi.nlm.nih.gov/pubmed/27088723"
+  }
+}

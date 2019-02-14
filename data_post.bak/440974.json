@@ -1,0 +1,40 @@
+{
+  "biorxiv;440974v1": {
+    "title": "Tibanna: software for scalable execution of portable pipelines on the cloud",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/10/11/440974.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/440974",
+    "version": "biorxiv;440974v1",
+    "date": "2018-10-11",
+    "authors": [
+      "Soohyun Lee",
+      "Jeremy Johnson",
+      "Carl Vitzthum",
+      "Koray K\u0131rl\u0131",
+      "Burak H Alver",
+      "Peter J Park"
+    ],
+    "fname_pdf": "pdfs/440974.full-text.pdf",
+    "awards": [
+      "CA200059"
+    ]
+  },
+  "latest": {
+    "title": "Tibanna: software for scalable execution of portable pipelines on the cloud",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/10/11/440974.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/440974",
+    "version": "biorxiv;440974v1",
+    "date": "2018-10-11",
+    "authors": [
+      "Soohyun Lee",
+      "Jeremy Johnson",
+      "Carl Vitzthum",
+      "Koray K\u0131rl\u0131",
+      "Burak H Alver",
+      "Peter J Park"
+    ],
+    "fname_pdf": "pdfs/440974.full-text.pdf",
+    "awards": [
+      "CA200059"
+    ]
+  }
+}

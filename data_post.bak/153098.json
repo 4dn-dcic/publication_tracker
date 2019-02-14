@@ -1,0 +1,38 @@
+{
+  "biorxiv;153098v1": {
+    "title": "Live-cell mapping of organelle-associated RNAs via proximity biotinylation combined with protein-RNA crosslinking",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/06/21/153098.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/153098",
+    "version": "biorxiv;153098v1",
+    "date": "2017-06-21",
+    "authors": [
+      "Pornchai Kaewsapsak",
+      "David Michael Shechner",
+      "William Mallard",
+      "John L. Rinn",
+      "Alice Y. Ting"
+    ],
+    "fname_pdf": "pdfs/153098.full-text.pdf",
+    "awards": [
+      "DA040612"
+    ]
+  },
+  "latest": {
+    "title": "Live-cell mapping of organelle-associated RNAs via proximity biotinylation combined with protein-RNA crosslinking",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/06/21/153098.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/153098",
+    "version": "biorxiv;153098v1",
+    "date": "2017-06-21",
+    "authors": [
+      "Pornchai Kaewsapsak",
+      "David Michael Shechner",
+      "William Mallard",
+      "John L. Rinn",
+      "Alice Y. Ting"
+    ],
+    "fname_pdf": "pdfs/153098.full-text.pdf",
+    "awards": [
+      "DA040612"
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "biorxiv;214361v1": {
+    "title": "Removing unwanted variation between samples in Hi-C experiments",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/11/06/214361.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/214361",
+    "version": "biorxiv;214361v1",
+    "date": "2017-11-06",
+    "authors": [
+      "Kipper Fletez-Brant",
+      "Yunjiang Qiu",
+      "David U Gorkin",
+      "Ming Hu",
+      "Kasper D Hansen"
+    ],
+    "fname_pdf": "pdfs/214361.full-text.pdf",
+    "awards": [
+      "DK107977"
+    ]
+  },
+  "latest": {
+    "title": "Removing unwanted variation between samples in Hi-C experiments",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/11/06/214361.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/214361",
+    "version": "biorxiv;214361v1",
+    "date": "2017-11-06",
+    "authors": [
+      "Kipper Fletez-Brant",
+      "Yunjiang Qiu",
+      "David U Gorkin",
+      "Ming Hu",
+      "Kasper D Hansen"
+    ],
+    "fname_pdf": "pdfs/214361.full-text.pdf",
+    "awards": [
+      "DK107977"
+    ]
+  }
+}

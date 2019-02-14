@@ -1,0 +1,36 @@
+{
+  "biorxiv;088146v1": {
+    "title": "Visualizing adenosine to inosine RNA editing in single mammalian cells",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2016/11/16/088146.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/088146",
+    "version": "biorxiv;088146v1",
+    "date": "2016-11-16",
+    "authors": [
+      "Ian A Mellis",
+      "Rohit K Gupte",
+      "Arjun Raj",
+      "Sara H Rouhanifard"
+    ],
+    "fname_pdf": "pdfs/088146.full-text.pdf",
+    "awards": [
+      "HL129998"
+    ]
+  },
+  "latest": {
+    "title": "Visualizing adenosine to inosine RNA editing in single mammalian cells",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2016/11/16/088146.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/088146",
+    "version": "biorxiv;088146v1",
+    "date": "2016-11-16",
+    "authors": [
+      "Ian A Mellis",
+      "Rohit K Gupte",
+      "Arjun Raj",
+      "Sara H Rouhanifard"
+    ],
+    "fname_pdf": "pdfs/088146.full-text.pdf",
+    "awards": [
+      "HL129998"
+    ]
+  }
+}

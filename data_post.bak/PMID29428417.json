@@ -1,0 +1,20 @@
+{
+  "latest": {
+    "version": "08Feb2019",
+    "pmid": "PMID29428417",
+    "awards": [
+      "U01HL130010"
+    ],
+    "authors": [
+      "James T Robinson",
+      "Douglass Turner",
+      "Neva C Durand",
+      "Helga Thorvaldsdo\u0301ttir",
+      "Jill P Mesirov",
+      "Erez Lieberman Aiden"
+    ],
+    "title": "Juicebox.js Provides a Cloud-Based Visualization System for Hi-C Data.",
+    "date": "2018 Feb 28",
+    "link": "http://www.ncbi.nlm.nih.gov/pubmed/29428417"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "latest": {
+    "version": "08Feb2019",
+    "pmid": "PMID26540590",
+    "awards": [
+      "U01HL129971"
+    ],
+    "authors": [
+      "Takashi Nagano",
+      "Yaniv Lubling",
+      "Eitan Yaffe",
+      "Steven W Wingett",
+      "Wendy Dean",
+      "Amos Tanay",
+      "Peter Fraser"
+    ],
+    "title": "Single-cell Hi-C for genome-wide detection of chromatin interactions that occur simultaneously in a single cell.",
+    "date": "2015 Dec",
+    "link": "http://www.ncbi.nlm.nih.gov/pubmed/26540590"
+  }
+}

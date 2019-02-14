@@ -1,0 +1,21 @@
+{
+  "latest": {
+    "version": "08Feb2019",
+    "pmid": "PMID27467249",
+    "awards": [
+      "U01HL130010"
+    ],
+    "authors": [
+      "Neva C Durand",
+      "Muhammad S Shamim",
+      "Ido Machol",
+      "Suhas S P Rao",
+      "Miriam H Huntley",
+      "Eric S Lander",
+      "Erez Lieberman Aiden"
+    ],
+    "title": "Juicer Provides a One-Click System for Analyzing Loop-Resolution Hi-C Experiments.",
+    "date": "2016 07",
+    "link": "http://www.ncbi.nlm.nih.gov/pubmed/27467249"
+  }
+}

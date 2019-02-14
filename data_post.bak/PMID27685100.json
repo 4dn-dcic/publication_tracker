@@ -1,0 +1,25 @@
+{
+  "latest": {
+    "version": "08Feb2019",
+    "pmid": "PMID27685100",
+    "awards": [
+      "U54DK107979"
+    ],
+    "authors": [
+      "Vijay Ramani",
+      "Darren A Cusanovich",
+      "Ronald J Hause",
+      "Wenxiu Ma",
+      "Ruolan Qiu",
+      "Xinxian Deng",
+      "C Anthony Blau",
+      "Christine M Disteche",
+      "William S Noble",
+      "Jay Shendure",
+      "Zhijun Duan"
+    ],
+    "title": "Mapping 3D genome architecture through in situ DNase Hi-C.",
+    "date": "2016 11",
+    "link": "http://www.ncbi.nlm.nih.gov/pubmed/27685100"
+  }
+}

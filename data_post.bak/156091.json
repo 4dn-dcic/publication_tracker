@@ -1,0 +1,40 @@
+{
+  "biorxiv;156091v1": {
+    "title": "Single-molecule FISH in Drosophila muscle reveals location dependent mRNA composition of megaRNPs",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/06/26/156091.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/156091",
+    "version": "biorxiv;156091v1",
+    "date": "2017-06-26",
+    "authors": [
+      "Akiko Noma",
+      "Carlas S. Smith",
+      "Maximillian Huisman",
+      "Robert M. Martin",
+      "Melissa J. Moore",
+      "David Grunwald"
+    ],
+    "fname_pdf": "pdfs/156091.full-text.pdf",
+    "awards": [
+      "EB021238"
+    ]
+  },
+  "latest": {
+    "title": "Single-molecule FISH in Drosophila muscle reveals location dependent mRNA composition of megaRNPs",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/06/26/156091.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/156091",
+    "version": "biorxiv;156091v1",
+    "date": "2017-06-26",
+    "authors": [
+      "Akiko Noma",
+      "Carlas S. Smith",
+      "Maximillian Huisman",
+      "Robert M. Martin",
+      "Melissa J. Moore",
+      "David Grunwald"
+    ],
+    "fname_pdf": "pdfs/156091.full-text.pdf",
+    "awards": [
+      "EB021238"
+    ]
+  }
+}

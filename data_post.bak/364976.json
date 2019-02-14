@@ -1,0 +1,36 @@
+{
+  "biorxiv;364976v1": {
+    "title": "Multi-scale deep tensor factorization learns a latent representation of the human epigenome",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/07/08/364976.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/364976",
+    "version": "biorxiv;364976v1",
+    "date": "2018-07-08",
+    "authors": [
+      "Jacob Schreiber",
+      "Timothy J Durham",
+      "Jeffrey Bilmes",
+      "William Stafford Noble"
+    ],
+    "fname_pdf": "pdfs/364976.full-text.pdf",
+    "awards": [
+      "DK107979"
+    ]
+  },
+  "latest": {
+    "title": "Multi-scale deep tensor factorization learns a latent representation of the human epigenome",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/07/08/364976.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/364976",
+    "version": "biorxiv;364976v1",
+    "date": "2018-07-08",
+    "authors": [
+      "Jacob Schreiber",
+      "Timothy J Durham",
+      "Jeffrey Bilmes",
+      "William Stafford Noble"
+    ],
+    "fname_pdf": "pdfs/364976.full-text.pdf",
+    "awards": [
+      "DK107979"
+    ]
+  }
+}

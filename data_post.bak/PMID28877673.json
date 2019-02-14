@@ -1,0 +1,21 @@
+{
+  "latest": {
+    "version": "08Feb2019",
+    "pmid": "PMID28877673",
+    "awards": [
+      "U54DK107977"
+    ],
+    "authors": [
+      "Daniel Hui",
+      "Zhou Fang",
+      "Jerome Lin",
+      "Qing Duan",
+      "Yun Li",
+      "Ming Hu",
+      "Wei Chen"
+    ],
+    "title": "LAIT: a local ancestry inference toolkit.",
+    "date": "2017 09 06",
+    "link": "http://www.ncbi.nlm.nih.gov/pubmed/28877673"
+  }
+}

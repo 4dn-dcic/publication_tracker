@@ -1,0 +1,42 @@
+{
+  "biorxiv;089011v1": {
+    "title": "Detecting hierarchical 3-D genome domain reconfiguration with network modularity",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2016/11/22/089011.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/089011",
+    "version": "biorxiv;089011v1",
+    "date": "2016-11-22",
+    "authors": [
+      "Heidi K Norton",
+      "Harvey Huang",
+      "Daniel J Emerson",
+      "Jesi Kim",
+      "Shi Gu",
+      "Danielle S Bassett",
+      "Jennifer E Phillips-Cremins"
+    ],
+    "fname_pdf": "pdfs/089011.full-text.pdf",
+    "awards": [
+      "HL129998"
+    ]
+  },
+  "latest": {
+    "title": "Detecting hierarchical 3-D genome domain reconfiguration with network modularity",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2016/11/22/089011.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/089011",
+    "version": "biorxiv;089011v1",
+    "date": "2016-11-22",
+    "authors": [
+      "Heidi K Norton",
+      "Harvey Huang",
+      "Daniel J Emerson",
+      "Jesi Kim",
+      "Shi Gu",
+      "Danielle S Bassett",
+      "Jennifer E Phillips-Cremins"
+    ],
+    "fname_pdf": "pdfs/089011.full-text.pdf",
+    "awards": [
+      "HL129998"
+    ]
+  }
+}

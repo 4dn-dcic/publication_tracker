@@ -1,0 +1,19 @@
+{
+  "latest": {
+    "version": "08Feb2019",
+    "pmid": "PMID28866592",
+    "awards": [
+      "U01CA200059"
+    ],
+    "authors": [
+      "Fritz Lekschas",
+      "Benjamin Bach",
+      "Peter Kerpedjiev",
+      "Nils Gehlenborg",
+      "Hanspeter Pfister"
+    ],
+    "title": "HiPiler: Visual Exploration of Large Genome Interaction Matrices with Interactive Small Multiples.",
+    "date": "2018 Jan",
+    "link": "http://www.ncbi.nlm.nih.gov/pubmed/28866592"
+  }
+}

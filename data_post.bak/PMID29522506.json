@@ -1,0 +1,22 @@
+{
+  "latest": {
+    "version": "08Feb2019",
+    "pmid": "PMID29522506",
+    "awards": [
+      "U01EB021223"
+    ],
+    "authors": [
+      "Carl Barton",
+      "Sandro Morganella",
+      "\u00d8yvind \u00d8dega\u030ard-Fougner",
+      "Stephanie Alexander",
+      "Jonas Ries",
+      "Tomas Fitzgerald",
+      "Jan Ellenberg",
+      "Ewan Birney"
+    ],
+    "title": "ChromoTrace: Computational reconstruction of 3D chromosome configurations for super-resolution microscopy.",
+    "date": "2018 03",
+    "link": "http://www.ncbi.nlm.nih.gov/pubmed/29522506"
+  }
+}

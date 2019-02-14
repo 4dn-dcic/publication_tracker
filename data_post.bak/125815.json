@@ -1,0 +1,38 @@
+{
+  "biorxiv;125815v1": {
+    "title": "A Versatile Compressed Sensing Scheme For Faster And Less Phototoxic 3D Fluorescence Microscopy",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/04/10/125815.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/125815",
+    "version": "biorxiv;125815v1",
+    "date": "2017-04-10",
+    "authors": [
+      "Maxime Woringer",
+      "Xavier Darzacq",
+      "Christophe Zimmer",
+      "Mustafa Mir"
+    ],
+    "fname_pdf": "pdfs/125815.full-text.pdf",
+    "awards": [
+      "EB021236",
+      "DK107980"
+    ]
+  },
+  "latest": {
+    "title": "A Versatile Compressed Sensing Scheme For Faster And Less Phototoxic 3D Fluorescence Microscopy",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/04/10/125815.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/125815",
+    "version": "biorxiv;125815v1",
+    "date": "2017-04-10",
+    "authors": [
+      "Maxime Woringer",
+      "Xavier Darzacq",
+      "Christophe Zimmer",
+      "Mustafa Mir"
+    ],
+    "fname_pdf": "pdfs/125815.full-text.pdf",
+    "awards": [
+      "EB021236",
+      "DK107980"
+    ]
+  }
+}

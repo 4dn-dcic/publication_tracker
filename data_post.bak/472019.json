@@ -1,0 +1,56 @@
+{
+  "biorxiv;472019v3": {
+    "title": "Genome-wide co-localization of RNA-DNA interactions and fusion RNA pairs",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/11/20/472019.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/472019",
+    "version": "biorxiv;472019v3",
+    "date": "2018-11-20",
+    "authors": [
+      "Zhangming Yan",
+      "Norman Huang",
+      "Weixin Wu",
+      "Weizhogn Chen",
+      "Yiqun Jiang",
+      "Jingyao Chen",
+      "Xuerui Huang",
+      "Xingzhao Wen",
+      "Jie Xu",
+      "Qiushi Jin",
+      "Kang Zhang",
+      "Zhen Chen",
+      "Shu Chien",
+      "Sheng Zhong"
+    ],
+    "fname_pdf": "pdfs/472019.full-text.pdf",
+    "awards": [
+      "CA200147"
+    ]
+  },
+  "latest": {
+    "title": "Genome-wide co-localization of RNA-DNA interactions and fusion RNA pairs",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/11/20/472019.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/472019",
+    "version": "biorxiv;472019v3",
+    "date": "2018-11-20",
+    "authors": [
+      "Zhangming Yan",
+      "Norman Huang",
+      "Weixin Wu",
+      "Weizhogn Chen",
+      "Yiqun Jiang",
+      "Jingyao Chen",
+      "Xuerui Huang",
+      "Xingzhao Wen",
+      "Jie Xu",
+      "Qiushi Jin",
+      "Kang Zhang",
+      "Zhen Chen",
+      "Shu Chien",
+      "Sheng Zhong"
+    ],
+    "fname_pdf": "pdfs/472019.full-text.pdf",
+    "awards": [
+      "CA200147"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "biorxiv;259515v2": {
+    "title": "GITAR: an Open Source Tool for Analysis and Visualization of Hi-C Data",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/05/08/259515.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/259515",
+    "version": "biorxiv;259515v2",
+    "date": "2018-05-08",
+    "authors": [
+      "Riccardo Calandrelli",
+      "Qiuyang Wu",
+      "Jihong Guan",
+      "Sheng Zhong"
+    ],
+    "fname_pdf": "pdfs/259515.full-text.pdf",
+    "awards": [
+      "CA200147"
+    ]
+  },
+  "latest": {
+    "title": "GITAR: an Open Source Tool for Analysis and Visualization of Hi-C Data",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/05/08/259515.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/259515",
+    "version": "biorxiv;259515v2",
+    "date": "2018-05-08",
+    "authors": [
+      "Riccardo Calandrelli",
+      "Qiuyang Wu",
+      "Jihong Guan",
+      "Sheng Zhong"
+    ],
+    "fname_pdf": "pdfs/259515.full-text.pdf",
+    "awards": [
+      "CA200147"
+    ]
+  }
+}

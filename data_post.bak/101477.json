@@ -1,0 +1,38 @@
+{
+  "biorxiv;101477v1": {
+    "title": "Multiplexed dynamic imaging of genomic loci in single cells by combined CRISPR imaging and DNA sequential FISH",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/01/18/101477.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/101477",
+    "version": "biorxiv;101477v1",
+    "date": "2017-01-18",
+    "authors": [
+      "Yodai Takei",
+      "Sheel Shah",
+      "Sho Harvey",
+      "Lei S Qi",
+      "Long Cai"
+    ],
+    "fname_pdf": "pdfs/101477.full-text.pdf",
+    "awards": [
+      "EB021240"
+    ]
+  },
+  "latest": {
+    "title": "Multiplexed dynamic imaging of genomic loci in single cells by combined CRISPR imaging and DNA sequential FISH",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/01/18/101477.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/101477",
+    "version": "biorxiv;101477v1",
+    "date": "2017-01-18",
+    "authors": [
+      "Yodai Takei",
+      "Sheel Shah",
+      "Sho Harvey",
+      "Lei S Qi",
+      "Long Cai"
+    ],
+    "fname_pdf": "pdfs/101477.full-text.pdf",
+    "awards": [
+      "EB021240"
+    ]
+  }
+}

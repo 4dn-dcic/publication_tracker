@@ -1,0 +1,22 @@
+{
+  "latest": {
+    "version": "08Feb2019",
+    "pmid": "PMID28855260",
+    "awards": [
+      "U01CA200060"
+    ],
+    "authors": [
+      "Tao Yang",
+      "Feipeng Zhang",
+      "Galip Gu\u0308rkan Yard?mc?",
+      "Fan Song",
+      "Ross C Hardison",
+      "William Stafford Noble",
+      "Feng Yue",
+      "Qunhua Li"
+    ],
+    "title": "HiCRep: assessing the reproducibility of Hi-C data using a stratum-adjusted correlation coefficient.",
+    "date": "2017 11",
+    "link": "http://www.ncbi.nlm.nih.gov/pubmed/28855260"
+  }
+}

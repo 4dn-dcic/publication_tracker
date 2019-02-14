@@ -1,0 +1,62 @@
+{
+  "biorxiv;121889v3": {
+    "title": "HiGlass: Web-based Visual Exploration and Analysis of Genome Interaction Maps",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/06/04/121889.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/121889",
+    "version": "biorxiv;121889v3",
+    "date": "2018-06-04",
+    "authors": [
+      "Peter Kerpedjiev",
+      "Nezar Abdennur",
+      "Fritz Lekschas",
+      "Chuck McCallum",
+      "Kasper Dinkla",
+      "Hendrik Strobelt",
+      "Jacob M. Luber",
+      "Scott B. Ouellette",
+      "Alaleh Azhir",
+      "Nikhil Kumar",
+      "Jeewon Hwang",
+      "Soohyun Lee",
+      "Burak H. Alver",
+      "Hanspeter Pfister",
+      "Leonid A. Mirny",
+      "Peter J. Park",
+      "Nils Gehlenborg"
+    ],
+    "fname_pdf": "pdfs/121889.full-text.pdf",
+    "awards": [
+      "CA200059"
+    ]
+  },
+  "latest": {
+    "title": "HiGlass: Web-based Visual Exploration and Analysis of Genome Interaction Maps",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/06/04/121889.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/121889",
+    "version": "biorxiv;121889v3",
+    "date": "2018-06-04",
+    "authors": [
+      "Peter Kerpedjiev",
+      "Nezar Abdennur",
+      "Fritz Lekschas",
+      "Chuck McCallum",
+      "Kasper Dinkla",
+      "Hendrik Strobelt",
+      "Jacob M. Luber",
+      "Scott B. Ouellette",
+      "Alaleh Azhir",
+      "Nikhil Kumar",
+      "Jeewon Hwang",
+      "Soohyun Lee",
+      "Burak H. Alver",
+      "Hanspeter Pfister",
+      "Leonid A. Mirny",
+      "Peter J. Park",
+      "Nils Gehlenborg"
+    ],
+    "fname_pdf": "pdfs/121889.full-text.pdf",
+    "awards": [
+      "CA200059"
+    ]
+  }
+}

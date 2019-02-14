@@ -1,0 +1,50 @@
+{
+  "biorxiv;443887v1": {
+    "title": "Highly Structured Homolog Pairing Reflects Functional Organization of the Drosophila Genome",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/10/17/443887.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/443887",
+    "version": "biorxiv;443887v1",
+    "date": "2018-10-17",
+    "authors": [
+      "Jumana AlHaj Abed",
+      "Jelena Erceg",
+      "Anton Goloborodko",
+      "Son C. Nguyen",
+      "Ruth B. McCole",
+      "Wren Saylor",
+      "Geoffrey Fudenberg",
+      "Bryan R. Lajoie",
+      "Job Dekker",
+      "Leonid A. Mirny",
+      "Ting (C.-ting) Wu"
+    ],
+    "fname_pdf": "pdfs/443887.full-text.pdf",
+    "awards": [
+      "DK107980"
+    ]
+  },
+  "latest": {
+    "title": "Highly Structured Homolog Pairing Reflects Functional Organization of the Drosophila Genome",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/10/17/443887.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/443887",
+    "version": "biorxiv;443887v1",
+    "date": "2018-10-17",
+    "authors": [
+      "Jumana AlHaj Abed",
+      "Jelena Erceg",
+      "Anton Goloborodko",
+      "Son C. Nguyen",
+      "Ruth B. McCole",
+      "Wren Saylor",
+      "Geoffrey Fudenberg",
+      "Bryan R. Lajoie",
+      "Job Dekker",
+      "Leonid A. Mirny",
+      "Ting (C.-ting) Wu"
+    ],
+    "fname_pdf": "pdfs/443887.full-text.pdf",
+    "awards": [
+      "DK107980"
+    ]
+  }
+}

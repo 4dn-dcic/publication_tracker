@@ -1,0 +1,22 @@
+{
+  "latest": {
+    "version": "08Feb2019",
+    "pmid": "PMID28215080",
+    "awards": [
+      "U54DK107965",
+      "U54DK107977"
+    ],
+    "authors": [
+      "Xiong Xiong",
+      "Yanxiao Zhang",
+      "Jian Yan",
+      "Surbhi Jain",
+      "Sora Chee",
+      "Bing Ren",
+      "Huimin Zhao"
+    ],
+    "title": "A Scalable Epitope Tagging Approach for High Throughput ChIP-Seq Analysis.",
+    "date": "2017 06 16",
+    "link": "http://www.ncbi.nlm.nih.gov/pubmed/28215080"
+  }
+}

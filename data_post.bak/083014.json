@@ -1,0 +1,48 @@
+{
+  "biorxiv;083014v2": {
+    "title": "p53 dynamically directs TFIID assembly on target gene promoters",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/02/24/083014.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/083014",
+    "version": "biorxiv;083014v2",
+    "date": "2017-02-24",
+    "authors": [
+      "Robert A Coleman",
+      "Zhen Qiao",
+      "Sameer K Singh",
+      "Chunte S Peng",
+      "Michael Cianfrocco",
+      "Zhengjian Zhang",
+      "Ania Piasecka",
+      "Hannah Aldeborgh",
+      "Givi Basishvili",
+      "Wei-Li Liu"
+    ],
+    "fname_pdf": "pdfs/083014.full-text.pdf",
+    "awards": [
+      "EB021236"
+    ]
+  },
+  "latest": {
+    "title": "p53 dynamically directs TFIID assembly on target gene promoters",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/02/24/083014.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/083014",
+    "version": "biorxiv;083014v2",
+    "date": "2017-02-24",
+    "authors": [
+      "Robert A Coleman",
+      "Zhen Qiao",
+      "Sameer K Singh",
+      "Chunte S Peng",
+      "Michael Cianfrocco",
+      "Zhengjian Zhang",
+      "Ania Piasecka",
+      "Hannah Aldeborgh",
+      "Givi Basishvili",
+      "Wei-Li Liu"
+    ],
+    "fname_pdf": "pdfs/083014.full-text.pdf",
+    "awards": [
+      "EB021236"
+    ]
+  }
+}

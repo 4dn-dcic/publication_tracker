@@ -1,0 +1,31 @@
+{
+  "latest": {
+    "version": "08Feb2019",
+    "pmid": "PMID29217591",
+    "awards": [
+      "U01EB021223"
+    ],
+    "authors": [
+      "Gordana Wutz",
+      "Csilla Va\u0301rnai",
+      "Kota Nagasaka",
+      "David A Cisneros",
+      "Roman R Stocsits",
+      "Wen Tang",
+      "Stefan Schoenfelder",
+      "Gregor Jessberger",
+      "Matthias Muhar",
+      "M Julius Hossain",
+      "Nike Walther",
+      "Birgit Koch",
+      "Moritz Kueblbeck",
+      "Jan Ellenberg",
+      "Johannes Zuber",
+      "Peter Fraser",
+      "Jan-Michael Peters"
+    ],
+    "title": "Topologically associating domains and chromatin loops depend on cohesin and are regulated by CTCF, WAPL, and PDS5 proteins.",
+    "date": "2017 12 15",
+    "link": "http://www.ncbi.nlm.nih.gov/pubmed/29217591"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "biorxiv;104844v1": {
+    "title": "Comprehensive single cell transcriptional profiling of a multicellular organism by combinatorial indexing",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/02/02/104844.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/104844",
+    "version": "biorxiv;104844v1",
+    "date": "2017-02-02",
+    "authors": [
+      "Junyue Cao",
+      "Jonathan S. Packer",
+      "Vijay Ramani",
+      "Darren A. Cusanovich",
+      "Chau Huynh",
+      "Riza Daza",
+      "Xiaojie Qiu",
+      "Choli Lee",
+      "Scott N. Furlan",
+      "Frank J. Steemers",
+      "Andrew Adey",
+      "Robert H. Waterston",
+      "Cole Trapnell",
+      "Jay Shendure"
+    ],
+    "fname_pdf": "pdfs/104844.full-text.pdf",
+    "awards": [
+      "NONE"
+    ]
+  },
+  "latest": {
+    "title": "Comprehensive single cell transcriptional profiling of a multicellular organism by combinatorial indexing",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/02/02/104844.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/104844",
+    "version": "biorxiv;104844v1",
+    "date": "2017-02-02",
+    "authors": [
+      "Junyue Cao",
+      "Jonathan S. Packer",
+      "Vijay Ramani",
+      "Darren A. Cusanovich",
+      "Chau Huynh",
+      "Riza Daza",
+      "Xiaojie Qiu",
+      "Choli Lee",
+      "Scott N. Furlan",
+      "Frank J. Steemers",
+      "Andrew Adey",
+      "Robert H. Waterston",
+      "Cole Trapnell",
+      "Jay Shendure"
+    ],
+    "fname_pdf": "pdfs/104844.full-text.pdf",
+    "awards": [
+      "NONE"
+    ]
+  }
+}

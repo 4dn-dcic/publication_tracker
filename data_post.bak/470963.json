@@ -1,0 +1,40 @@
+{
+  "biorxiv;470963v2": {
+    "title": "Simultaneous profiling of DNA methylation and chromatin architecture in mixed populations and in single cells",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/11/15/470963.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/470963",
+    "version": "biorxiv;470963v2",
+    "date": "2018-11-15",
+    "authors": [
+      "Guoqiang Li",
+      "Yaping Liu",
+      "Yanxiao Zhang",
+      "Rongxin Fang",
+      "Manolis Kellis",
+      "Bing Ren"
+    ],
+    "fname_pdf": "pdfs/470963.full-text.pdf",
+    "awards": [
+      "DK107977"
+    ]
+  },
+  "latest": {
+    "title": "Simultaneous profiling of DNA methylation and chromatin architecture in mixed populations and in single cells",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/11/15/470963.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/470963",
+    "version": "biorxiv;470963v2",
+    "date": "2018-11-15",
+    "authors": [
+      "Guoqiang Li",
+      "Yaping Liu",
+      "Yanxiao Zhang",
+      "Rongxin Fang",
+      "Manolis Kellis",
+      "Bing Ren"
+    ],
+    "fname_pdf": "pdfs/470963.full-text.pdf",
+    "awards": [
+      "DK107977"
+    ]
+  }
+}

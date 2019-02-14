@@ -1,0 +1,54 @@
+{
+  "biorxiv;155473v1": {
+    "title": "Chromatin accessibility dynamics of myogenesis at single cell resolution",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/06/26/155473.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/155473",
+    "version": "biorxiv;155473v1",
+    "date": "2017-06-26",
+    "authors": [
+      "Hannah Pliner",
+      "Jonathan Packer",
+      "Jose McFaline-Figueroa",
+      "Darren Cusanovich",
+      "Riza Daza",
+      "Sanjay Srivatsan",
+      "Xiaojie Qiu",
+      "Dana Jackson",
+      "Anna Minkina",
+      "Andrew Adey",
+      "Frank Steemers",
+      "Jay Shendure",
+      "Cole Trapnell"
+    ],
+    "fname_pdf": "pdfs/155473.full-text.pdf",
+    "awards": [
+      "DK107979"
+    ]
+  },
+  "latest": {
+    "title": "Chromatin accessibility dynamics of myogenesis at single cell resolution",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/06/26/155473.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/155473",
+    "version": "biorxiv;155473v1",
+    "date": "2017-06-26",
+    "authors": [
+      "Hannah Pliner",
+      "Jonathan Packer",
+      "Jose McFaline-Figueroa",
+      "Darren Cusanovich",
+      "Riza Daza",
+      "Sanjay Srivatsan",
+      "Xiaojie Qiu",
+      "Dana Jackson",
+      "Anna Minkina",
+      "Andrew Adey",
+      "Frank Steemers",
+      "Jay Shendure",
+      "Cole Trapnell"
+    ],
+    "fname_pdf": "pdfs/155473.full-text.pdf",
+    "awards": [
+      "DK107979"
+    ]
+  }
+}

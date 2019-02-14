@@ -1,0 +1,36 @@
+{
+  "biorxiv;038281v2": {
+    "title": "Compaction and segregation of sister chromatids via active loop extrusion",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2016/01/30/038281.1.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/038281",
+    "version": "biorxiv;038281v2",
+    "date": "2016-01-30",
+    "authors": [
+      "Anton Goloborodko",
+      "Maxim V. Imakaev",
+      "John F. Marko",
+      "Leonid A. Mirny"
+    ],
+    "fname_pdf": "pdfs/038281.1.full-text.pdf",
+    "awards": [
+      "DK107980"
+    ]
+  },
+  "latest": {
+    "title": "Compaction and segregation of sister chromatids via active loop extrusion",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2016/01/30/038281.1.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/038281",
+    "version": "biorxiv;038281v2",
+    "date": "2016-01-30",
+    "authors": [
+      "Anton Goloborodko",
+      "Maxim V. Imakaev",
+      "John F. Marko",
+      "Leonid A. Mirny"
+    ],
+    "fname_pdf": "pdfs/038281.1.full-text.pdf",
+    "awards": [
+      "DK107980"
+    ]
+  }
+}

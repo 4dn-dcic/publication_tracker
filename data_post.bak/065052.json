@@ -1,0 +1,44 @@
+{
+  "biorxiv;065052v1": {
+    "title": "Massively multiplex single-cell Hi-C",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2016/07/23/065052.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/065052",
+    "version": "biorxiv;065052v1",
+    "date": "2016-07-23",
+    "authors": [
+      "Vijay Ramani",
+      "Xinxian Deng",
+      "Kevin L Gunderson",
+      "Frank J Steemers",
+      "Christine M Disteche",
+      "William S Noble",
+      "Zhijun Duan",
+      "Jay Shendure"
+    ],
+    "fname_pdf": "pdfs/065052.full-text.pdf",
+    "awards": [
+      "DK107979"
+    ]
+  },
+  "latest": {
+    "title": "Massively multiplex single-cell Hi-C",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2016/07/23/065052.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/065052",
+    "version": "biorxiv;065052v1",
+    "date": "2016-07-23",
+    "authors": [
+      "Vijay Ramani",
+      "Xinxian Deng",
+      "Kevin L Gunderson",
+      "Frank J Steemers",
+      "Christine M Disteche",
+      "William S Noble",
+      "Zhijun Duan",
+      "Jay Shendure"
+    ],
+    "fname_pdf": "pdfs/065052.full-text.pdf",
+    "awards": [
+      "DK107979"
+    ]
+  }
+}

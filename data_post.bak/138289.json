@@ -1,0 +1,46 @@
+{
+  "biorxiv;138289v1": {
+    "title": "A Comparison Between Single Cell RNA Sequencing And Single Molecule RNA FISH For Rare Cell Analysis",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/05/18/138289.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/138289",
+    "version": "biorxiv;138289v1",
+    "date": "2017-05-18",
+    "authors": [
+      "Eduardo A. Torre",
+      "Hannah Dueck",
+      "Sydney Shaffer",
+      "Janko Gospocic",
+      "Rohit Gupte",
+      "Roberto Bonasio",
+      "Junhyong Kim",
+      "John Murray",
+      "Arjun Raj"
+    ],
+    "fname_pdf": "pdfs/138289.full-text.pdf",
+    "awards": [
+      "HL129998"
+    ]
+  },
+  "latest": {
+    "title": "A Comparison Between Single Cell RNA Sequencing And Single Molecule RNA FISH For Rare Cell Analysis",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/05/18/138289.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/138289",
+    "version": "biorxiv;138289v1",
+    "date": "2017-05-18",
+    "authors": [
+      "Eduardo A. Torre",
+      "Hannah Dueck",
+      "Sydney Shaffer",
+      "Janko Gospocic",
+      "Rohit Gupte",
+      "Roberto Bonasio",
+      "Junhyong Kim",
+      "John Murray",
+      "Arjun Raj"
+    ],
+    "fname_pdf": "pdfs/138289.full-text.pdf",
+    "awards": [
+      "HL129998"
+    ]
+  }
+}

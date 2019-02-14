@@ -1,0 +1,42 @@
+{
+  "biorxiv;074294v1": {
+    "title": "MAPPING OF LONG-RANGE CHROMATIN INTERACTIONS BY PROXIMITY LIGATION ASSISTED CHIP-SEQ",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2016/09/09/074294.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/074294",
+    "version": "biorxiv;074294v1",
+    "date": "2016-09-09",
+    "authors": [
+      "Rongxin Fang",
+      "Miao Yu",
+      "Guoqiang Li",
+      "Sora Chee",
+      "Tristin Liu",
+      "Anthony Schmitt",
+      "Bing Ren"
+    ],
+    "fname_pdf": "pdfs/074294.full-text.pdf",
+    "awards": [
+      "DK107977"
+    ]
+  },
+  "latest": {
+    "title": "MAPPING OF LONG-RANGE CHROMATIN INTERACTIONS BY PROXIMITY LIGATION ASSISTED CHIP-SEQ",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2016/09/09/074294.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/074294",
+    "version": "biorxiv;074294v1",
+    "date": "2016-09-09",
+    "authors": [
+      "Rongxin Fang",
+      "Miao Yu",
+      "Guoqiang Li",
+      "Sora Chee",
+      "Tristin Liu",
+      "Anthony Schmitt",
+      "Bing Ren"
+    ],
+    "fname_pdf": "pdfs/074294.full-text.pdf",
+    "awards": [
+      "DK107977"
+    ]
+  }
+}

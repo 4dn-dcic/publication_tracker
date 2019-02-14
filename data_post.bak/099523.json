@@ -1,0 +1,36 @@
+{
+  "biorxiv;099523v2": {
+    "title": "Direct visualization of transcriptional activation by physical enhancer-promoter proximity",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/01/31/099523.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/099523",
+    "version": "biorxiv;099523v2",
+    "date": "2017-01-31",
+    "authors": [
+      "Hongtao Chen",
+      "Miki Fujioka",
+      "James B Jaynes",
+      "Thomas Gregor"
+    ],
+    "fname_pdf": "pdfs/099523.full-text.pdf",
+    "awards": [
+      "EB021239"
+    ]
+  },
+  "latest": {
+    "title": "Direct visualization of transcriptional activation by physical enhancer-promoter proximity",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/01/31/099523.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/099523",
+    "version": "biorxiv;099523v2",
+    "date": "2017-01-31",
+    "authors": [
+      "Hongtao Chen",
+      "Miki Fujioka",
+      "James B Jaynes",
+      "Thomas Gregor"
+    ],
+    "fname_pdf": "pdfs/099523.full-text.pdf",
+    "awards": [
+      "EB021239"
+    ]
+  }
+}

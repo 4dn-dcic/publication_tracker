@@ -1,0 +1,23 @@
+{
+  "latest": {
+    "version": "08Feb2019",
+    "pmid": "PMID28355183",
+    "awards": [
+      "U54DK107980"
+    ],
+    "authors": [
+      "Ilya M Flyamer",
+      "Johanna Gassler",
+      "Maxim Imakaev",
+      "Hugo B Branda\u0303o",
+      "Sergey V Ulianov",
+      "Nezar Abdennur",
+      "Sergey V Razin",
+      "Leonid A Mirny",
+      "Kikue\u0308 Tachibana-Konwalski"
+    ],
+    "title": "Single-nucleus Hi-C reveals unique chromatin reorganization at oocyte-to-zygote transition.",
+    "date": "2017 04 06",
+    "link": "http://www.ncbi.nlm.nih.gov/pubmed/28355183"
+  }
+}

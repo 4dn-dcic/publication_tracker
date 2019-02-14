@@ -1,0 +1,38 @@
+{
+  "biorxiv;159004v1": {
+    "title": "A Fluorogenic Array Tag for Temporally Unlimited Single Molecule Tracking",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/07/03/159004.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/159004",
+    "version": "biorxiv;159004v1",
+    "date": "2017-07-03",
+    "authors": [
+      "Rajarshi P Ghosh",
+      "Matthew J Franklin",
+      "Will E Draper",
+      "Quanming Shi",
+      "Jan T Liphardt"
+    ],
+    "fname_pdf": "pdfs/159004.full-text.pdf",
+    "awards": [
+      "EB021237"
+    ]
+  },
+  "latest": {
+    "title": "A Fluorogenic Array Tag for Temporally Unlimited Single Molecule Tracking",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/07/03/159004.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/159004",
+    "version": "biorxiv;159004v1",
+    "date": "2017-07-03",
+    "authors": [
+      "Rajarshi P Ghosh",
+      "Matthew J Franklin",
+      "Will E Draper",
+      "Quanming Shi",
+      "Jan T Liphardt"
+    ],
+    "fname_pdf": "pdfs/159004.full-text.pdf",
+    "awards": [
+      "EB021237"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "biorxiv;103358v1": {
+    "title": "PGS: a dynamic and automated population-based genome structure software",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/01/26/103358.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/103358",
+    "version": "biorxiv;103358v1",
+    "date": "2017-01-26",
+    "authors": [
+      "Nan Hua",
+      "Harianto Tjong",
+      "Hanjun Shin",
+      "Ke Gong",
+      "Xianghong Jasmine Zhou",
+      "Frank Alber"
+    ],
+    "fname_pdf": "pdfs/103358.full-text.pdf",
+    "awards": [
+      "NONE"
+    ]
+  },
+  "latest": {
+    "title": "PGS: a dynamic and automated population-based genome structure software",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/01/26/103358.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/103358",
+    "version": "biorxiv;103358v1",
+    "date": "2017-01-26",
+    "authors": [
+      "Nan Hua",
+      "Harianto Tjong",
+      "Hanjun Shin",
+      "Ke Gong",
+      "Xianghong Jasmine Zhou",
+      "Frank Alber"
+    ],
+    "fname_pdf": "pdfs/103358.full-text.pdf",
+    "awards": [
+      "NONE"
+    ]
+  }
+}

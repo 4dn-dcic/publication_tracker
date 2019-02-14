@@ -1,0 +1,21 @@
+{
+  "latest": {
+    "version": "08Feb2019",
+    "pmid": "PMID26704975",
+    "awards": [
+      "U54DK107981"
+    ],
+    "authors": [
+      "Hanjun Shin",
+      "Yi Shi",
+      "Chao Dai",
+      "Harianto Tjong",
+      "Ke Gong",
+      "Frank Alber",
+      "Xianghong Jasmine Zhou"
+    ],
+    "title": "TopDom: an efficient and deterministic method for identifying topological domains in genomes.",
+    "date": "2016 Apr 20",
+    "link": "http://www.ncbi.nlm.nih.gov/pubmed/26704975"
+  }
+}

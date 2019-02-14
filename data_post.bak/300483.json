@@ -1,0 +1,42 @@
+{
+  "biorxiv;300483v1": {
+    "title": "RNAs as proximity labeling media for identifying nuclear speckle positions relative to the genome",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/04/12/300483.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/300483",
+    "version": "biorxiv;300483v1",
+    "date": "2018-04-12",
+    "authors": [
+      "Weizhong Chen",
+      "Zhangming Yan",
+      "Simin Li",
+      "Norman Huang",
+      "Xuerui Huang",
+      "Jin Zhang",
+      "Sheng Zhong"
+    ],
+    "fname_pdf": "pdfs/300483.full-text.pdf",
+    "awards": [
+      "CA200147"
+    ]
+  },
+  "latest": {
+    "title": "RNAs as proximity labeling media for identifying nuclear speckle positions relative to the genome",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/04/12/300483.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/300483",
+    "version": "biorxiv;300483v1",
+    "date": "2018-04-12",
+    "authors": [
+      "Weizhong Chen",
+      "Zhangming Yan",
+      "Simin Li",
+      "Norman Huang",
+      "Xuerui Huang",
+      "Jin Zhang",
+      "Sheng Zhong"
+    ],
+    "fname_pdf": "pdfs/300483.full-text.pdf",
+    "awards": [
+      "CA200147"
+    ]
+  }
+}

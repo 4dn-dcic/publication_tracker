@@ -1,0 +1,38 @@
+{
+  "biorxiv;130567v1": {
+    "title": "Supercoiling DNA locates mismatches",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/04/25/130567.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/130567",
+    "version": "biorxiv;130567v1",
+    "date": "2017-04-25",
+    "authors": [
+      "Andrew Dittmore",
+      "Sumitabha Brahmachari",
+      "Yasuhara Takagi",
+      "John F. Marko",
+      "Keir C. Neuman"
+    ],
+    "fname_pdf": "pdfs/130567.full-text.pdf",
+    "awards": [
+      "DK107980"
+    ]
+  },
+  "latest": {
+    "title": "Supercoiling DNA locates mismatches",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/04/25/130567.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/130567",
+    "version": "biorxiv;130567v1",
+    "date": "2017-04-25",
+    "authors": [
+      "Andrew Dittmore",
+      "Sumitabha Brahmachari",
+      "Yasuhara Takagi",
+      "John F. Marko",
+      "Keir C. Neuman"
+    ],
+    "fname_pdf": "pdfs/130567.full-text.pdf",
+    "awards": [
+      "DK107980"
+    ]
+  }
+}

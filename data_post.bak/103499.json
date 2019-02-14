@@ -1,0 +1,56 @@
+{
+  "biorxiv;103499v1": {
+    "title": "The 4D Nucleome Project",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/01/26/103499.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/103499",
+    "version": "biorxiv;103499v1",
+    "date": "2017-01-26",
+    "authors": [
+      "Job Dekker",
+      "Andrew S Belmont",
+      "Mitchell Guttman",
+      "Victor O Leshyk",
+      "John T Lis",
+      "Stavros Lomvardas",
+      "Leonid A Mirny",
+      "Clodagh C O'Shea",
+      "Peter J Park",
+      "Bing Ren",
+      "Joan C Ritland",
+      "Jay Shendure",
+      "Sheng Zhong",
+      "The 4D Nucleome Network"
+    ],
+    "fname_pdf": "pdfs/103499.full-text.pdf",
+    "awards": [
+      "NONE"
+    ]
+  },
+  "latest": {
+    "title": "The 4D Nucleome Project",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/01/26/103499.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/103499",
+    "version": "biorxiv;103499v1",
+    "date": "2017-01-26",
+    "authors": [
+      "Job Dekker",
+      "Andrew S Belmont",
+      "Mitchell Guttman",
+      "Victor O Leshyk",
+      "John T Lis",
+      "Stavros Lomvardas",
+      "Leonid A Mirny",
+      "Clodagh C O'Shea",
+      "Peter J Park",
+      "Bing Ren",
+      "Joan C Ritland",
+      "Jay Shendure",
+      "Sheng Zhong",
+      "The 4D Nucleome Network"
+    ],
+    "fname_pdf": "pdfs/103499.full-text.pdf",
+    "awards": [
+      "NONE"
+    ]
+  }
+}

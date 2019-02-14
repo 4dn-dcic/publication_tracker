@@ -1,0 +1,42 @@
+{
+  "biorxiv;099911v1": {
+    "title": "The 3D genome organization of Drosophila melanogaster through data integration",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/01/15/099911.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/099911",
+    "version": "biorxiv;099911v1",
+    "date": "2017-01-15",
+    "authors": [
+      "Qingjiao Li",
+      "Harianto Tjong",
+      "Xiao Li",
+      "Ke Gong",
+      "Xianghong Jasmine Zhou",
+      "Irene Chiolo",
+      "Frank Alber"
+    ],
+    "fname_pdf": "pdfs/099911.full-text.pdf",
+    "awards": [
+      "DK107981"
+    ]
+  },
+  "latest": {
+    "title": "The 3D genome organization of Drosophila melanogaster through data integration",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/01/15/099911.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/099911",
+    "version": "biorxiv;099911v1",
+    "date": "2017-01-15",
+    "authors": [
+      "Qingjiao Li",
+      "Harianto Tjong",
+      "Xiao Li",
+      "Ke Gong",
+      "Xianghong Jasmine Zhou",
+      "Irene Chiolo",
+      "Frank Alber"
+    ],
+    "fname_pdf": "pdfs/099911.full-text.pdf",
+    "awards": [
+      "DK107981"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "latest": {
+    "version": "08Feb2019",
+    "pmid": "PMID30650367",
+    "awards": [
+      "U01HL130010"
+    ],
+    "authors": [
+      "Nathan Lawlor",
+      "Eladio J Ma\u0301rquez",
+      "Peter Orchard",
+      "Narisu Narisu",
+      "Muhammad Saad Shamim",
+      "Asa Thibodeau",
+      "Arushi Varshney",
+      "Romy Kursawe",
+      "Michael R Erdos",
+      "Matt Kanke",
+      "Huiya Gu",
+      "Evgenia Pak",
+      "Amalia Dutra",
+      "Sheikh Russell",
+      "Xingwang Li",
+      "Emaly Piecuch",
+      "Oscar Luo",
+      "Peter S Chines",
+      "Christian Fuchbserger",
+      "NIH Intramural Sequencing Center",
+      "Praveen Sethupathy",
+      "Aviva Presser Aiden",
+      "Yijun Ruan",
+      "Erez Lieberman Aiden",
+      "Francis S Collins",
+      "Duygu Ucar",
+      "Stephen C J Parker",
+      "Michael L Stitzel"
+    ],
+    "title": "Multiomic Profiling Identifies cis-Regulatory Networks Underlying Human Pancreatic ? Cell Identity and Function.",
+    "date": "2019 Jan 15",
+    "link": "http://www.ncbi.nlm.nih.gov/pubmed/30650367"
+  }
+}

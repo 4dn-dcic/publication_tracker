@@ -1,0 +1,24 @@
+{
+  "latest": {
+    "version": "08Feb2019",
+    "pmid": "PMID29630062",
+    "awards": [
+      "U01EB021223"
+    ],
+    "authors": [
+      "Yiming Li",
+      "Markus Mund",
+      "Philipp Hoess",
+      "Joran Deschamps",
+      "Ulf Matti",
+      "Bianca Nijmeijer",
+      "Vilma Jimenez Sabinina",
+      "Jan Ellenberg",
+      "Ingmar Schoen",
+      "Jonas Ries"
+    ],
+    "title": "Real-time 3D single-molecule localization using experimental point spread functions.",
+    "date": "2018 May",
+    "link": "http://www.ncbi.nlm.nih.gov/pubmed/29630062"
+  }
+}

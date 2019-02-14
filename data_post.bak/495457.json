@@ -1,0 +1,40 @@
+{
+  "biorxiv;495457v1": {
+    "title": "Guided nuclear exploration increases CTCF target search efficiency",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/12/13/495457.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/495457",
+    "version": "biorxiv;495457v1",
+    "date": "2018-12-13",
+    "authors": [
+      "Anders S Hansen",
+      "Assaf Amitai",
+      "Claudia Cattoglio",
+      "Robert Tjian",
+      "Xavier Darzacq"
+    ],
+    "fname_pdf": "pdfs/495457.full-text.pdf",
+    "awards": [
+      "EB021236",
+      "DK107980"
+    ]
+  },
+  "latest": {
+    "title": "Guided nuclear exploration increases CTCF target search efficiency",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/12/13/495457.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/495457",
+    "version": "biorxiv;495457v1",
+    "date": "2018-12-13",
+    "authors": [
+      "Anders S Hansen",
+      "Assaf Amitai",
+      "Claudia Cattoglio",
+      "Robert Tjian",
+      "Xavier Darzacq"
+    ],
+    "fname_pdf": "pdfs/495457.full-text.pdf",
+    "awards": [
+      "EB021236",
+      "DK107980"
+    ]
+  }
+}

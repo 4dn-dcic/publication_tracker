@@ -1,0 +1,53 @@
+{
+  "latest": {
+    "version": "08Feb2019",
+    "pmid": "PMID28803781",
+    "awards": [
+      "U01HL130010",
+      "U54DK107967"
+    ],
+    "authors": [
+      "Kyong-Rim Kieffer-Kwon",
+      "Keisuke Nimura",
+      "Suhas S P Rao",
+      "Jianliang Xu",
+      "Seolkyoung Jung",
+      "Aleksandra Pekowska",
+      "Marei Dose",
+      "Evan Stevens",
+      "Ewy Mathe",
+      "Peng Dong",
+      "Su-Chen Huang",
+      "Maria Aurelia Ricci",
+      "Laura Baranello",
+      "Ying Zheng",
+      "Francesco Tomassoni Ardori",
+      "Wolfgang Resch",
+      "Diana Stavreva",
+      "Steevenson Nelson",
+      "Michael McAndrew",
+      "Adriel Casellas",
+      "Elizabeth Finn",
+      "Charles Gregory",
+      "Brian Glenn St Hilaire",
+      "Steven M Johnson",
+      "Wendy Dubois",
+      "Maria Pia Cosma",
+      "Eric Batchelor",
+      "David Levens",
+      "Robert D Phair",
+      "Tom Misteli",
+      "Lino Tessarollo",
+      "Gordon Hager",
+      "Melike Lakadamyali",
+      "Zhe Liu",
+      "Monique Floer",
+      "Hari Shroff",
+      "Erez Lieberman Aiden",
+      "Rafael Casellas"
+    ],
+    "title": "Myc Regulates Chromatin Decompaction and Nuclear Architecture during B Cell Activation.",
+    "date": "2017 Aug 17",
+    "link": "http://www.ncbi.nlm.nih.gov/pubmed/28803781"
+  }
+}

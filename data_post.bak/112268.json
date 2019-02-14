@@ -1,0 +1,54 @@
+{
+  "biorxiv;112268v1": {
+    "title": "The 3D Genome Browser: a web-based browser for visualizing 3D genome organization and long-range chromatin interactions",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/02/27/112268.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/112268",
+    "version": "biorxiv;112268v1",
+    "date": "2017-02-27",
+    "authors": [
+      "Yanli Wang",
+      "Bo Zhang",
+      "Lijun Zhang",
+      "Lin An",
+      "Jie Xu",
+      "Daofeng Li",
+      "Mayank NK Choudhary",
+      "Yun Li",
+      "Ming Hu",
+      "Ross Hardison",
+      "Ting Wang",
+      "Feng Yue"
+    ],
+    "fname_pdf": "pdfs/112268.full-text.pdf",
+    "awards": [
+      "CA200060",
+      "DK107977"
+    ]
+  },
+  "latest": {
+    "title": "The 3D Genome Browser: a web-based browser for visualizing 3D genome organization and long-range chromatin interactions",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/02/27/112268.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/112268",
+    "version": "biorxiv;112268v1",
+    "date": "2017-02-27",
+    "authors": [
+      "Yanli Wang",
+      "Bo Zhang",
+      "Lijun Zhang",
+      "Lin An",
+      "Jie Xu",
+      "Daofeng Li",
+      "Mayank NK Choudhary",
+      "Yun Li",
+      "Ming Hu",
+      "Ross Hardison",
+      "Ting Wang",
+      "Feng Yue"
+    ],
+    "fname_pdf": "pdfs/112268.full-text.pdf",
+    "awards": [
+      "CA200060",
+      "DK107977"
+    ]
+  }
+}

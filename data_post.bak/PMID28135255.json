@@ -1,0 +1,23 @@
+{
+  "latest": {
+    "version": "08Feb2019",
+    "pmid": "PMID28135255",
+    "awards": [
+      "U54DK107979"
+    ],
+    "authors": [
+      "Vijay Ramani",
+      "Xinxian Deng",
+      "Ruolan Qiu",
+      "Kevin L Gunderson",
+      "Frank J Steemers",
+      "Christine M Disteche",
+      "William S Noble",
+      "Zhijun Duan",
+      "Jay Shendure"
+    ],
+    "title": "Massively multiplex single-cell Hi-C.",
+    "date": "2017 03",
+    "link": "http://www.ncbi.nlm.nih.gov/pubmed/28135255"
+  }
+}

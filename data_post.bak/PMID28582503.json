@@ -1,0 +1,22 @@
+{
+  "latest": {
+    "version": "08Feb2019",
+    "pmid": "PMID28582503",
+    "awards": [
+      "U54DK107977"
+    ],
+    "authors": [
+      "Joshua S Martin",
+      "Zheng Xu",
+      "Alex P Reiner",
+      "Karen L Mohlke",
+      "Patrick Sullivan",
+      "Bing Ren",
+      "Ming Hu",
+      "Yun Li"
+    ],
+    "title": "HUGIn: Hi-C Unifying Genomic Interrogator.",
+    "date": "2017 Dec 01",
+    "link": "http://www.ncbi.nlm.nih.gov/pubmed/28582503"
+  }
+}

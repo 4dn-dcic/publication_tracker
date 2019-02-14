@@ -1,0 +1,42 @@
+{
+  "biorxiv;110668v1": {
+    "title": "Reversed graph embedding resolves complex single-cell developmental trajectories",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/02/21/110668.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/110668",
+    "version": "biorxiv;110668v1",
+    "date": "2017-02-21",
+    "authors": [
+      "Xiaojie Qiu",
+      "Qi Mao",
+      "Ying Tang",
+      "Li Wang",
+      "Raghav Chawla",
+      "Hannah Pliner",
+      "Cole Trapnell"
+    ],
+    "fname_pdf": "pdfs/110668.full-text.pdf",
+    "awards": [
+      "NONE"
+    ]
+  },
+  "latest": {
+    "title": "Reversed graph embedding resolves complex single-cell developmental trajectories",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/02/21/110668.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/110668",
+    "version": "biorxiv;110668v1",
+    "date": "2017-02-21",
+    "authors": [
+      "Xiaojie Qiu",
+      "Qi Mao",
+      "Ying Tang",
+      "Li Wang",
+      "Raghav Chawla",
+      "Hannah Pliner",
+      "Cole Trapnell"
+    ],
+    "fname_pdf": "pdfs/110668.full-text.pdf",
+    "awards": [
+      "NONE"
+    ]
+  }
+}

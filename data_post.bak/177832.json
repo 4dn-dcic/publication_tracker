@@ -1,0 +1,38 @@
+{
+  "biorxiv;177832v4": {
+    "title": "GIVE: toward portable genome browsers for personal websites",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/03/15/177832.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/177832",
+    "version": "biorxiv;177832v4",
+    "date": "2018-03-15",
+    "authors": [
+      "Xiaoyi Cao",
+      "Zhangming Yan",
+      "Qiuyang Wu",
+      "Alvin Zheng",
+      "Sheng Zhong"
+    ],
+    "fname_pdf": "pdfs/177832.full-text.pdf",
+    "awards": [
+      "CA200147"
+    ]
+  },
+  "latest": {
+    "title": "GIVE: toward portable genome browsers for personal websites",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/03/15/177832.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/177832",
+    "version": "biorxiv;177832v4",
+    "date": "2018-03-15",
+    "authors": [
+      "Xiaoyi Cao",
+      "Zhangming Yan",
+      "Qiuyang Wu",
+      "Alvin Zheng",
+      "Sheng Zhong"
+    ],
+    "fname_pdf": "pdfs/177832.full-text.pdf",
+    "awards": [
+      "CA200147"
+    ]
+  }
+}

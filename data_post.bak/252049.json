@@ -1,0 +1,58 @@
+{
+  "biorxiv;252049v1": {
+    "title": "Multiplex Chromatin Interaction Analysis with Single-Molecule Precision",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/01/25/252049.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/252049",
+    "version": "biorxiv;252049v1",
+    "date": "2018-01-25",
+    "authors": [
+      "Meizhen Zheng",
+      "Simon Zhongyuan Tian",
+      "Rahul Maurya",
+      "Byoungkoo Lee",
+      "Minji Kim",
+      "Daniel Capurso",
+      "Emaly Piecuch",
+      "Liang Gong",
+      "Jacqueline Jufen Zhu",
+      "Chee Hong Wong",
+      "Chew Yee Ngan",
+      "Ping Wang",
+      "Xiaoan Ruan",
+      "Chia-Lin Wei",
+      "Yijun Ruan"
+    ],
+    "fname_pdf": "pdfs/252049.full-text.pdf",
+    "awards": [
+      "DK107967"
+    ]
+  },
+  "latest": {
+    "title": "Multiplex Chromatin Interaction Analysis with Single-Molecule Precision",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/01/25/252049.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/252049",
+    "version": "biorxiv;252049v1",
+    "date": "2018-01-25",
+    "authors": [
+      "Meizhen Zheng",
+      "Simon Zhongyuan Tian",
+      "Rahul Maurya",
+      "Byoungkoo Lee",
+      "Minji Kim",
+      "Daniel Capurso",
+      "Emaly Piecuch",
+      "Liang Gong",
+      "Jacqueline Jufen Zhu",
+      "Chee Hong Wong",
+      "Chew Yee Ngan",
+      "Ping Wang",
+      "Xiaoan Ruan",
+      "Chia-Lin Wei",
+      "Yijun Ruan"
+    ],
+    "fname_pdf": "pdfs/252049.full-text.pdf",
+    "awards": [
+      "DK107967"
+    ]
+  }
+}

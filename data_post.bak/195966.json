@@ -1,0 +1,42 @@
+{
+  "biorxiv;195966v1": {
+    "title": "CRISPR-Based DNA Imaging in Living Cells Reveals Cell Cycle-Dependent Chromosome Dynamics",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/09/29/195966.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/195966",
+    "version": "biorxiv;195966v1",
+    "date": "2017-09-29",
+    "authors": [
+      "Hanhui Ma",
+      "Li-Chun Tu",
+      "Ardalan Naseri",
+      "Yu-Chieh Chung",
+      "David Grunwald",
+      "Shaojie Zhang",
+      "Thoru Pederson"
+    ],
+    "fname_pdf": "pdfs/195966.full-text.pdf",
+    "awards": [
+      "EB021238"
+    ]
+  },
+  "latest": {
+    "title": "CRISPR-Based DNA Imaging in Living Cells Reveals Cell Cycle-Dependent Chromosome Dynamics",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/09/29/195966.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/195966",
+    "version": "biorxiv;195966v1",
+    "date": "2017-09-29",
+    "authors": [
+      "Hanhui Ma",
+      "Li-Chun Tu",
+      "Ardalan Naseri",
+      "Yu-Chieh Chung",
+      "David Grunwald",
+      "Shaojie Zhang",
+      "Thoru Pederson"
+    ],
+    "fname_pdf": "pdfs/195966.full-text.pdf",
+    "awards": [
+      "EB021238"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "biorxiv;095802v2": {
+    "title": "Targeted degradation of CTCF decouples local insulation of chromosome domains from higher-order genomic compartmentalization",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/01/07/095802.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/095802",
+    "version": "biorxiv;095802v2",
+    "date": "2017-01-09",
+    "authors": [
+      "Elphege P Nora",
+      "Anton Goloborodko",
+      "Anne-Laure Valton",
+      "Johan Harmen Gibcus",
+      "Alec Uebersohn",
+      "Nezar Abdennur",
+      "Job Dekker",
+      "Leonid Mirny",
+      "Benoit Bruneau"
+    ],
+    "fname_pdf": "pdfs/095802.full-text.pdf",
+    "awards": [
+      "DK107980"
+    ]
+  },
+  "latest": {
+    "title": "Targeted degradation of CTCF decouples local insulation of chromosome domains from higher-order genomic compartmentalization",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/01/07/095802.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/095802",
+    "version": "biorxiv;095802v2",
+    "date": "2017-01-09",
+    "authors": [
+      "Elphege P Nora",
+      "Anton Goloborodko",
+      "Anne-Laure Valton",
+      "Johan Harmen Gibcus",
+      "Alec Uebersohn",
+      "Nezar Abdennur",
+      "Job Dekker",
+      "Leonid Mirny",
+      "Benoit Bruneau"
+    ],
+    "fname_pdf": "pdfs/095802.full-text.pdf",
+    "awards": [
+      "DK107980"
+    ]
+  }
+}

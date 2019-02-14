@@ -1,0 +1,34 @@
+{
+  "biorxiv;090001v1": {
+    "title": "HI-C 2.0: AN OPTIMIZED HI-C PROCEDURE FOR HIGH-RESOLUTION GENOME-WIDE MAPPING OF CHROMOSOME CONFORMATION",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2016/11/27/090001.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/090001",
+    "version": "biorxiv;090001v1",
+    "date": "2016-11-27",
+    "authors": [
+      "Houda Belaghzal",
+      "Job Dekker",
+      "Johan H. Gibcus"
+    ],
+    "fname_pdf": "pdfs/090001.full-text.pdf",
+    "awards": [
+      "DK107980"
+    ]
+  },
+  "latest": {
+    "title": "HI-C 2.0: AN OPTIMIZED HI-C PROCEDURE FOR HIGH-RESOLUTION GENOME-WIDE MAPPING OF CHROMOSOME CONFORMATION",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2016/11/27/090001.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/090001",
+    "version": "biorxiv;090001v1",
+    "date": "2016-11-27",
+    "authors": [
+      "Houda Belaghzal",
+      "Job Dekker",
+      "Johan H. Gibcus"
+    ],
+    "fname_pdf": "pdfs/090001.full-text.pdf",
+    "awards": [
+      "DK107980"
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "biorxiv;205740v1": {
+    "title": "Juicebox.js provides a cloud-based visualization system for Hi-C data",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/10/19/205740.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/205740",
+    "version": "biorxiv;205740v1",
+    "date": "2017-10-19",
+    "authors": [
+      "James Robinson",
+      "Douglass Turner",
+      "Neva C. Durand",
+      "Helga Thorvaldsdottir",
+      "Jill P. Mesirov",
+      "Erez Lieberman Aiden"
+    ],
+    "fname_pdf": "pdfs/205740.full-text.pdf",
+    "awards": [
+      "HL130010"
+    ]
+  },
+  "latest": {
+    "title": "Juicebox.js provides a cloud-based visualization system for Hi-C data",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2017/10/19/205740.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/205740",
+    "version": "biorxiv;205740v1",
+    "date": "2017-10-19",
+    "authors": [
+      "James Robinson",
+      "Douglass Turner",
+      "Neva C. Durand",
+      "Helga Thorvaldsdottir",
+      "Jill P. Mesirov",
+      "Erez Lieberman Aiden"
+    ],
+    "fname_pdf": "pdfs/205740.full-text.pdf",
+    "awards": [
+      "HL130010"
+    ]
+  }
+}

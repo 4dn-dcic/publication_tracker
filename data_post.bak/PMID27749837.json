@@ -1,0 +1,28 @@
+{
+  "latest": {
+    "version": "08Feb2019",
+    "pmid": "PMID27749837",
+    "awards": [
+      "U01EB021237"
+    ],
+    "authors": [
+      "Xingqi Chen",
+      "Ying Shen",
+      "Will Draper",
+      "Jason D Buenrostro",
+      "Ulrike Litzenburger",
+      "Seung Woo Cho",
+      "Ansuman T Satpathy",
+      "Ava C Carter",
+      "Rajarshi P Ghosh",
+      "Alexandra East-Seletsky",
+      "Jennifer A Doudna",
+      "William J Greenleaf",
+      "Jan T Liphardt",
+      "Howard Y Chang"
+    ],
+    "title": "ATAC-see reveals the accessible genome by transposase-mediated imaging and sequencing.",
+    "date": "2016 Dec",
+    "link": "http://www.ncbi.nlm.nih.gov/pubmed/27749837"
+  }
+}

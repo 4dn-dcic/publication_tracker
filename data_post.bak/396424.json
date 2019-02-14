@@ -1,0 +1,40 @@
+{
+  "biorxiv;396424v1": {
+    "title": "Photon count estimation in single-molecule localization microscopy",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/08/20/396424.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/396424",
+    "version": "biorxiv;396424v1",
+    "date": "2018-08-20",
+    "authors": [
+      "Bernd Rieger",
+      "Sjoerd Stallinga",
+      "Christiaan N Hulleman",
+      "Rasmus O Thorsen",
+      "David Grunwald",
+      "Mathias Hammer"
+    ],
+    "fname_pdf": "pdfs/396424.full-text.pdf",
+    "awards": [
+      "EB021238"
+    ]
+  },
+  "latest": {
+    "title": "Photon count estimation in single-molecule localization microscopy",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/08/20/396424.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/396424",
+    "version": "biorxiv;396424v1",
+    "date": "2018-08-20",
+    "authors": [
+      "Bernd Rieger",
+      "Sjoerd Stallinga",
+      "Christiaan N Hulleman",
+      "Rasmus O Thorsen",
+      "David Grunwald",
+      "Mathias Hammer"
+    ],
+    "fname_pdf": "pdfs/396424.full-text.pdf",
+    "awards": [
+      "EB021238"
+    ]
+  }
+}

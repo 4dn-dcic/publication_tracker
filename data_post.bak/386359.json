@@ -1,0 +1,40 @@
+{
+  "biorxiv;386359v1": {
+    "title": "Allele-specific RNA imaging shows that allelic imbalances can arise in tissues through transcriptional bursting",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/08/07/386359.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/386359",
+    "version": "biorxiv;386359v1",
+    "date": "2018-08-07",
+    "authors": [
+      "Orsolya Symmons",
+      "Marcello Chang",
+      "Ian Mellis",
+      "Jennifer M. Kalish",
+      "Marisa S. Bartolomei",
+      "Arjun Raj"
+    ],
+    "fname_pdf": "pdfs/386359.full-text.pdf",
+    "awards": [
+      "HL129998"
+    ]
+  },
+  "latest": {
+    "title": "Allele-specific RNA imaging shows that allelic imbalances can arise in tissues through transcriptional bursting",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/08/07/386359.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/386359",
+    "version": "biorxiv;386359v1",
+    "date": "2018-08-07",
+    "authors": [
+      "Orsolya Symmons",
+      "Marcello Chang",
+      "Ian Mellis",
+      "Jennifer M. Kalish",
+      "Marisa S. Bartolomei",
+      "Arjun Raj"
+    ],
+    "fname_pdf": "pdfs/386359.full-text.pdf",
+    "awards": [
+      "HL129998"
+    ]
+  }
+}

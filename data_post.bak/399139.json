@@ -1,0 +1,82 @@
+{
+  "biorxiv;399139v1": {
+    "title": "EndoC-\u03b2H1 multi-genomic profiling defines gene regulatory programs governing human pancreatic \u03b2 cell identity and function",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/08/23/399139.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/399139",
+    "version": "biorxiv;399139v1",
+    "date": "2018-08-23",
+    "authors": [
+      "Nathan Lawlor",
+      "Eladio J. Marquez",
+      "Peter Orchard",
+      "Narisu Narisu",
+      "Muhammad Saad Shamim",
+      "Asa Thibodeau",
+      "Arushi Varshney",
+      "Romy Kursawe",
+      "Michael R. Erdos",
+      "Matt Kanke",
+      "Huiya Gu",
+      "Evgenia Pak",
+      "Amalia Dutra",
+      "Sheikh Russell",
+      "Xingwang Li",
+      "Emaly Piecuch",
+      "Oscar Luo",
+      "Peter S. Chines",
+      "Christian Fuchbserger",
+      "Praveen Sethupathy",
+      "Aviva Presser Aiden",
+      "Yijun Ruan",
+      "Erez Lieberman Aiden",
+      "Francis S. Collins",
+      "Duygu Ucar",
+      "Stephen C.J. Parker",
+      "Michael L. Stitzel"
+    ],
+    "fname_pdf": "pdfs/399139.full-text.pdf",
+    "awards": [
+      "HL130010"
+    ]
+  },
+  "latest": {
+    "title": "EndoC-\u03b2H1 multi-genomic profiling defines gene regulatory programs governing human pancreatic \u03b2 cell identity and function",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/08/23/399139.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/399139",
+    "version": "biorxiv;399139v1",
+    "date": "2018-08-23",
+    "authors": [
+      "Nathan Lawlor",
+      "Eladio J. Marquez",
+      "Peter Orchard",
+      "Narisu Narisu",
+      "Muhammad Saad Shamim",
+      "Asa Thibodeau",
+      "Arushi Varshney",
+      "Romy Kursawe",
+      "Michael R. Erdos",
+      "Matt Kanke",
+      "Huiya Gu",
+      "Evgenia Pak",
+      "Amalia Dutra",
+      "Sheikh Russell",
+      "Xingwang Li",
+      "Emaly Piecuch",
+      "Oscar Luo",
+      "Peter S. Chines",
+      "Christian Fuchbserger",
+      "Praveen Sethupathy",
+      "Aviva Presser Aiden",
+      "Yijun Ruan",
+      "Erez Lieberman Aiden",
+      "Francis S. Collins",
+      "Duygu Ucar",
+      "Stephen C.J. Parker",
+      "Michael L. Stitzel"
+    ],
+    "fname_pdf": "pdfs/399139.full-text.pdf",
+    "awards": [
+      "HL130010"
+    ]
+  }
+}

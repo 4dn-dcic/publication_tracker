@@ -1,0 +1,42 @@
+{
+  "biorxiv;283655v1": {
+    "title": "Mapping local and global liquid-liquid phase behavior in living cells using light-activated multivalent seeds",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/03/16/283655.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/283655",
+    "version": "biorxiv;283655v1",
+    "date": "2018-03-16",
+    "authors": [
+      "Dan Bracha",
+      "Mackenzie T Walls",
+      "Ming-Tzo Wei",
+      "Lian Zhu",
+      "Martin Kurian",
+      "Jared E Toettcher",
+      "Clifford P Brangwynne"
+    ],
+    "fname_pdf": "pdfs/283655.full-text.pdf",
+    "awards": [
+      "DA040601"
+    ]
+  },
+  "latest": {
+    "title": "Mapping local and global liquid-liquid phase behavior in living cells using light-activated multivalent seeds",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/03/16/283655.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/283655",
+    "version": "biorxiv;283655v1",
+    "date": "2018-03-16",
+    "authors": [
+      "Dan Bracha",
+      "Mackenzie T Walls",
+      "Ming-Tzo Wei",
+      "Lian Zhu",
+      "Martin Kurian",
+      "Jared E Toettcher",
+      "Clifford P Brangwynne"
+    ],
+    "fname_pdf": "pdfs/283655.full-text.pdf",
+    "awards": [
+      "DA040601"
+    ]
+  }
+}

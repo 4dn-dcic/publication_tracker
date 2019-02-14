@@ -1,0 +1,29 @@
+{
+  "latest": {
+    "version": "08Feb2019",
+    "pmid": "PMID29382556",
+    "awards": [
+      "U54DK107979"
+    ],
+    "authors": [
+      "Wenxiu Ma",
+      "Ferhat Ay",
+      "Choli Lee",
+      "Gunhan Gulsoy",
+      "Xinxian Deng",
+      "Savannah Cook",
+      "Jennifer Hesson",
+      "Christopher Cavanaugh",
+      "Carol B Ware",
+      "Anton Krumm",
+      "Jay Shendure",
+      "C Anthony Blau",
+      "Christine M Disteche",
+      "William S Noble",
+      "ZhiJun Duan"
+    ],
+    "title": "Using DNase Hi-C techniques to map global and local three-dimensional genome architecture at high resolution.",
+    "date": "2018 06 01",
+    "link": "http://www.ncbi.nlm.nih.gov/pubmed/29382556"
+  }
+}

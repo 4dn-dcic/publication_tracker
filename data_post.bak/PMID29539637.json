@@ -1,0 +1,46 @@
+{
+  "latest": {
+    "version": "08Feb2019",
+    "pmid": "PMID29539637",
+    "awards": [
+      "U54DK107981"
+    ],
+    "authors": [
+      "Seung Joong Kim",
+      "Javier Fernandez-Martinez",
+      "Ilona Nudelman",
+      "Yi Shi",
+      "Wenzhu Zhang",
+      "Barak Raveh",
+      "Thurston Herricks",
+      "Brian D Slaughter",
+      "Joanna A Hogan",
+      "Paula Upla",
+      "Ilan E Chemmama",
+      "Riccardo Pellarin",
+      "Ignacia Echeverria",
+      "Manjunatha Shivaraju",
+      "Azraa S Chaudhury",
+      "Junjie Wang",
+      "Rosemary Williams",
+      "Jay R Unruh",
+      "Charles H Greenberg",
+      "Erica Y Jacobs",
+      "Zhiheng Yu",
+      "M Jason de la Cruz",
+      "Roxana Mironska",
+      "David L Stokes",
+      "John D Aitchison",
+      "Martin F Jarrold",
+      "Jennifer L Gerton",
+      "Steven J Ludtke",
+      "Christopher W Akey",
+      "Brian T Chait",
+      "Andrej Sali",
+      "Michael P Rout"
+    ],
+    "title": "Integrative structure and functional anatomy of a nuclear pore complex.",
+    "date": "2018 03 22",
+    "link": "http://www.ncbi.nlm.nih.gov/pubmed/29539637"
+  }
+}

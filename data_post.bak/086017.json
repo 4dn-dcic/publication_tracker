@@ -1,0 +1,32 @@
+{
+  "biorxiv;086017v1": {
+    "title": "Software tools for visualizing Hi-C data",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2016/11/07/086017.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/086017",
+    "version": "biorxiv;086017v1",
+    "date": "2016-11-07",
+    "authors": [
+      "Galip Gurkan Yardimci",
+      "William Stafford Noble"
+    ],
+    "fname_pdf": "pdfs/086017.full-text.pdf",
+    "awards": [
+      "DK107979"
+    ]
+  },
+  "latest": {
+    "title": "Software tools for visualizing Hi-C data",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2016/11/07/086017.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/086017",
+    "version": "biorxiv;086017v1",
+    "date": "2016-11-07",
+    "authors": [
+      "Galip Gurkan Yardimci",
+      "William Stafford Noble"
+    ],
+    "fname_pdf": "pdfs/086017.full-text.pdf",
+    "awards": [
+      "DK107979"
+    ]
+  }
+}

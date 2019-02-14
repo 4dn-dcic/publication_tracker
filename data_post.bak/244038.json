@@ -1,0 +1,50 @@
+{
+  "biorxiv;244038v1": {
+    "title": "Heterochromatin drives organization of conventional and inverted nuclei",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/01/09/244038.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/244038",
+    "version": "biorxiv;244038v1",
+    "date": "2018-01-09",
+    "authors": [
+      "Martin Falk",
+      "Yana Feodorova",
+      "Natasha Naumova",
+      "Maxim Imakaev",
+      "Bryan R. Lajoie",
+      "Heinrich Leonhardt",
+      "Boris Joffe",
+      "Job Dekker",
+      "Geoffrey Fudenberg",
+      "Irina Solovei",
+      "Leonid Mirny"
+    ],
+    "fname_pdf": "pdfs/244038.full-text.pdf",
+    "awards": [
+      "DK107980"
+    ]
+  },
+  "latest": {
+    "title": "Heterochromatin drives organization of conventional and inverted nuclei",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/01/09/244038.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/244038",
+    "version": "biorxiv;244038v1",
+    "date": "2018-01-09",
+    "authors": [
+      "Martin Falk",
+      "Yana Feodorova",
+      "Natasha Naumova",
+      "Maxim Imakaev",
+      "Bryan R. Lajoie",
+      "Heinrich Leonhardt",
+      "Boris Joffe",
+      "Job Dekker",
+      "Geoffrey Fudenberg",
+      "Irina Solovei",
+      "Leonid Mirny"
+    ],
+    "fname_pdf": "pdfs/244038.full-text.pdf",
+    "awards": [
+      "DK107980"
+    ]
+  }
+}

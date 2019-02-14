@@ -1,0 +1,36 @@
+{
+  "biorxiv;103614v5": {
+    "title": "Nucleotide sequence and DNaseI sensitivity are predictive of 3D chromatin architecture",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/07/15/103614.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/103614",
+    "version": "biorxiv;103614v5",
+    "date": "2018-07-15",
+    "authors": [
+      "Jacob Schreiber",
+      "Maxwell Libbrecht",
+      "Jeffrey Bilmes",
+      "William Noble"
+    ],
+    "fname_pdf": "pdfs/103614.full-text.pdf",
+    "awards": [
+      "NONE"
+    ]
+  },
+  "latest": {
+    "title": "Nucleotide sequence and DNaseI sensitivity are predictive of 3D chromatin architecture",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/07/15/103614.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/103614",
+    "version": "biorxiv;103614v5",
+    "date": "2018-07-15",
+    "authors": [
+      "Jacob Schreiber",
+      "Maxwell Libbrecht",
+      "Jeffrey Bilmes",
+      "William Noble"
+    ],
+    "fname_pdf": "pdfs/103614.full-text.pdf",
+    "awards": [
+      "NONE"
+    ]
+  }
+}

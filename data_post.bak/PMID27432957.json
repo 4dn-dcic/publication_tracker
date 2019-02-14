@@ -1,0 +1,28 @@
+{
+  "latest": {
+    "version": "08Feb2019",
+    "pmid": "PMID27432957",
+    "awards": [
+      "U01HL130010"
+    ],
+    "authors": [
+      "Emily M Darrow",
+      "Miriam H Huntley",
+      "Olga Dudchenko",
+      "Elena K Stamenova",
+      "Neva C Durand",
+      "Zhuo Sun",
+      "Su-Chen Huang",
+      "Adrian L Sanborn",
+      "Ido Machol",
+      "Muhammad Shamim",
+      "Andrew P Seberg",
+      "Eric S Lander",
+      "Brian P Chadwick",
+      "Erez Lieberman Aiden"
+    ],
+    "title": "Deletion of DXZ4 on the human inactive X chromosome alters higher-order genome architecture.",
+    "date": "2016 08 02",
+    "link": "http://www.ncbi.nlm.nih.gov/pubmed/27432957"
+  }
+}

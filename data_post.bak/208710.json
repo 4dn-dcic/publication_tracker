@@ -1,0 +1,50 @@
+{
+  "biorxiv;208710v2": {
+    "title": "Dynamic and Selective Low-Complexity Domain Interactions Revealed by Live-Cell Single-Molecule Imaging",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/05/16/208710.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/208710",
+    "version": "biorxiv;208710v2",
+    "date": "2018-05-16",
+    "authors": [
+      "Shasha Chong",
+      "Claire Dugast-Darzacq",
+      "Zhe Liu",
+      "Peng Dong",
+      "Gina Dailey",
+      "Claudia Cattoglio",
+      "Sambashiva Banala",
+      "Luke Lavis",
+      "Xavier Darzacq",
+      "Robert Tjian"
+    ],
+    "fname_pdf": "pdfs/208710.full-text.pdf",
+    "awards": [
+      "EB021236",
+      "DK107980"
+    ]
+  },
+  "latest": {
+    "title": "Dynamic and Selective Low-Complexity Domain Interactions Revealed by Live-Cell Single-Molecule Imaging",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/05/16/208710.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/208710",
+    "version": "biorxiv;208710v2",
+    "date": "2018-05-16",
+    "authors": [
+      "Shasha Chong",
+      "Claire Dugast-Darzacq",
+      "Zhe Liu",
+      "Peng Dong",
+      "Gina Dailey",
+      "Claudia Cattoglio",
+      "Sambashiva Banala",
+      "Luke Lavis",
+      "Xavier Darzacq",
+      "Robert Tjian"
+    ],
+    "fname_pdf": "pdfs/208710.full-text.pdf",
+    "awards": [
+      "EB021236",
+      "DK107980"
+    ]
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "biorxiv;375071v3": {
+    "title": "Transient DNA Binding Induces RNA Polymerase II Compartmentalization During Herpesviral Infection Distinct From Phase Separation",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/07/30/375071.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/375071",
+    "version": "biorxiv;375071v3",
+    "date": "2018-07-30",
+    "authors": [
+      "David Trombley McSwiggen",
+      "Anders Sejr Hansen",
+      "Herv\u00e9 Marie-Nelly",
+      "Sheila Teves",
+      "Alec Heckert",
+      "Claire Dugast-Darzacq",
+      "Yvonne Hao",
+      "Kayla Kazue Umemoto",
+      "Robert Tjian",
+      "Xavier Darzacq"
+    ],
+    "fname_pdf": "pdfs/375071.full-text.pdf",
+    "awards": [
+      "EB021236",
+      "DK107980"
+    ]
+  },
+  "latest": {
+    "title": "Transient DNA Binding Induces RNA Polymerase II Compartmentalization During Herpesviral Infection Distinct From Phase Separation",
+    "pdf_link": "https://www.biorxiv.org/content/biorxiv/early/2018/07/30/375071.full-text.pdf",
+    "abstract_link": "http://biorxiv.org/cgi/content/short/375071",
+    "version": "biorxiv;375071v3",
+    "date": "2018-07-30",
+    "authors": [
+      "David Trombley McSwiggen",
+      "Anders Sejr Hansen",
+      "Herv\u00e9 Marie-Nelly",
+      "Sheila Teves",
+      "Alec Heckert",
+      "Claire Dugast-Darzacq",
+      "Yvonne Hao",
+      "Kayla Kazue Umemoto",
+      "Robert Tjian",
+      "Xavier Darzacq"
+    ],
+    "fname_pdf": "pdfs/375071.full-text.pdf",
+    "awards": [
+      "EB021236",
+      "DK107980"
+    ]
+  }
+}
