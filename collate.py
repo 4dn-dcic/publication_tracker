@@ -1,5 +1,5 @@
 import collections
-import os, sys, json, re
+import os, sys, json, re, glob
 import click
 from difflib import SequenceMatcher as SM
 from itertools import combinations
@@ -90,16 +90,35 @@ def write_per_grant():
         with open(fname_pergrant,"w") as fp:
             json.dump(dict_pergrant[award],fp,indent=2)
 
+def write_tables_per_grant():
+    '''
+    read data_grant/<grant>.json and output data_grant/<grant>.tsv
+    '''
+    fname_pergrants =  glob.glob("data_grant/*json")
+    for fname_pergrant in fname_pergrants:
+        print(fname_pergrant)
+        with open(fname_pergrant,"r") as fp:
+            dict_pergrant = json.load(fp)
+            ids = dict_pergrant.keys()
+            authors = {id: "; ".join( dict_pergrant[id]["authors"]) for id in ids}
+            for id in ids:
+                print(id + ' ' + authors[id])
+        break
+
 
 @click.command()
 @click.option('--match-pubs', is_flag=True, help="look for records with very similar titles and authors to fill other_ids field", default=False)
 @click.option('--per-grant', is_flag=True, help="reorganize data to be per award under data_grant/", default=False)
+@click.option('--out-tables', is_flag=True, help="convert jsons to tsvs in data_grant/", default=False)
 
-def run(match_pubs,per_grant):
+def run(match_pubs, per_grant, out_tables):
     if(match_pubs):
         match_pubs_titleauthor()
     if(per_grant):
         write_per_grant()
+    if(out_tables):
+        write_tables_per_grant()
+
 
 if __name__ == '__main__':
     run()
