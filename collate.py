@@ -41,11 +41,11 @@ def match_pubs_titleauthor():
             else:
                 raise Exception("two biorxivs matched",t1["title"], t2["title"])
 
-    for entry in entries:
-        fname_jsoneach = entries[entry].pop("fname")
+    for entry in entries.values():
+        fname_jsoneach = entry.pop("fname")
         with open("data_post/" + fname_jsoneach,"r") as fp:
             entry_orig = json.load(fp)
-            entry_orig["latest"] = entries[entry]
+            entry_orig["latest"] = entry
         with open("data_post/"+ fname_jsoneach,"w") as fp:
             json.dump(entry_orig, fp)
     print("done!")
