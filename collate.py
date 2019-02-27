@@ -2,8 +2,8 @@ import collections
 import os, sys, json, re
 import click
 from difflib import SequenceMatcher as SM
-from itertools import combinations 
-from datetime import date 
+from itertools import combinations
+from datetime import date
 
 def match_pubs_titleauthor():
     '''
@@ -41,12 +41,12 @@ def match_pubs_titleauthor():
             else:
                 raise Exception("two biorxivs matched",t1["title"], t2["title"])
 
-    for entry in entries:
+    for entry in entries.values():
         fname_jsoneach = entry.pop("fname")
         with open("data_post/" + fname_jsoneach,"r") as fp:
             entry_orig = json.load(fp)
             entry_orig["latest"] = entry
-        with open(c + fname_jsoneach,"w") as fp:
+        with open("data_post/"+ fname_jsoneach,"w") as fp:
             json.dump(entry_orig, fp)
     print("done!")
 
@@ -70,14 +70,14 @@ def write_per_grant():
             for award in record["awards"]:
                 dict_pergrant[award][this["id"]] = this
 
-    os.makedirs("data_grant",exist_ok=True)  
+    os.makedirs("data_grant",exist_ok=True)
     for award in dict_pergrant.keys():
         fname_pergrant = "data_grant/" + award + ".json"
         if os.path.exists(fname_pergrant):
             with open(fname_pergrant,"r") as fp:
                 entry = json.load(fp)
         else:
-            entry = {}        
+            entry = {}
 
         today = str(date.today())
 
@@ -99,7 +99,7 @@ def run(match_pubs,per_grant):
     if(match_pubs):
         match_pubs_titleauthor()
     if(per_grant):
-        write_per_grant()  
+        write_per_grant()
 
 if __name__ == '__main__':
     run()
