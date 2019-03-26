@@ -3,3 +3,6 @@ requests
 PDFMiner.six
 click
 pandas
+boto3
+gspread
+oauth2client
