@@ -1,6 +1,6 @@
 BeautifulSoup4==4.7.1
 requests==2.21.0
-PDFMiner.six
+PDFMiner.six==20181108
 click==7.0
 pandas==0.24.1
 boto3=1.9.117
