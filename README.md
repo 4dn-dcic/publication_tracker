@@ -37,7 +37,7 @@ as `data_post/PMID<pmid>.json`
 
 2. Take the records and output a file per award: `python3 collate.py --per-grant`
 
-3. Upload the recods to the google sheets: `python3 collate.py --out-tables`
+3. Upload the records to the google sheets: `python3 collate.py --out-tables`
 
 
 
