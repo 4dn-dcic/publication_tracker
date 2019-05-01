@@ -2,7 +2,7 @@ Setup your virtualenv/venv by running `pip3 install -U -r requirements.txt`.
 
 ### Parsing biorxiv 4DN channel
 
-Try `python3 parse_biorxiv_4dn.py --step all --test`
+Try `python3 parse_biorxiv_4dn.py --step all --test` for testing, remove the `--test` flag to get all the data
 
 See `python3 parse_biorxiv_4dn.py --help` for more information.
 
@@ -35,7 +35,10 @@ as `data_post/PMID<pmid>.json`
 1. Is this biorxiv already published? Match records by title and authors:
 `python3 collate.py --match-pubs`
 
-1. Take the records and output a file per award: `python3 collate.py --per-grant`
+2. Take the records and output a file per award: `python3 collate.py --per-grant`
+
+3. Upload the recods to the google sheets: `python3 collate.py --out-tables`
+
 
 
 
