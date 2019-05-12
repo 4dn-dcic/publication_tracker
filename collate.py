@@ -92,11 +92,11 @@ def match_pubs_titleauthor():
                             select_award = None
                             if award_in_pub == award_of_pi[4:-3]:
                                 select_award = award_in_pub
+                                break
                             elif award_in_pub == 'CA200147' and 'TCPA' in award_of_pi:
                                 select_award = award_of_pi
                                 break
-                            else:
-                                continue
+
                         if len(primary_award) == 0 and select_award is not None:
                             primary_award.append(select_award)
                             isthere_primary_award = True
@@ -104,12 +104,11 @@ def match_pubs_titleauthor():
                         else:
                             secondary_award.append(award_in_pub)
                     break
-                else:
-                    continue
 
             if isthere_primary_award:
                 break
 
+        # Catching when authors in pub are not in the PI list, but award in pub is 4DN award
         if isthere_4DN_member is False:
             PIs_4DN_with_pub_award = []
             for award_in_pub in awards_in_pub:
